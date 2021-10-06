@@ -7,7 +7,7 @@
 <h1 align="center">Hi all👋, I'm Zakaria</h1>
 
 > Ex-Architectural Draughtsman from Paris
-Proactive, Agile, Craftsman
+> Proactive, Agile, Craftsman
 
 
 ![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-italic-13png.png)
