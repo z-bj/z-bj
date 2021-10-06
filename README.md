@@ -5,7 +5,9 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
 <h1 align="center">Hi all👋, I'm Zakaria</h1>
+
 > Ex-Architectural Draughtsman from Paris
+Proactive, Agile, Craftsman
 
 
 ![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-italic-13png.png)
