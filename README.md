@@ -19,7 +19,7 @@ I'm actually Based in Tunisia.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available on my Notion: https://z4k8351.notion.site/Hey-I-m-Zakaria-18ccf0eeafe3401aa904ed1a301fc843
+- 👨‍💻 All of my projects are available on: [My Notion](https://z4k8351.notion.site/Hey-I-m-Zakaria-18ccf0eeafe3401aa904ed1a301fc843)
 
 
 - 📫 How to reach me **zbjarchi@gmail.com**
