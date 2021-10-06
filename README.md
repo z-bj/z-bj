@@ -8,7 +8,6 @@
 
 > Ex-Architectural Draughtsman from Paris
 
-
 > Proactive, Agile, Craftsman
 
 
