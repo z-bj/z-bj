@@ -8,8 +8,6 @@
 
 > Ex-Architectural Draughtsman from Paris
 
-> Proactive, Agile, Craftsman
-
 
 ![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-italic-13png.png)
 
@@ -17,13 +15,14 @@
 
 I'm actually Based in Tunisia.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on...
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available on: [My Notion](https://z4k8351.notion.site/Hey-I-m-Zakaria-18ccf0eeafe3401aa904ed1a301fc843)
 
-- 📫 How to reach me **zbjarchi@gmail.com**
+- 📫 Feel free to reach me on zoom **zbjarchi@gmail.com**
+- 🤙 (Book a call with me)[https://calendly.com/zakaria-beji/20min?month=2021-10]
 
 - 📄 Know about my experiences
 
