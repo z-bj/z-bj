@@ -5,24 +5,20 @@
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
 <h1 align="center">Hi all👋, I'm Zakaria</h1>
+> Ex-Architectural Draughtsman from Paris
 
 
 ![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-italic-13png.png)
 
 <h2>I love to build amazing React.js' apps.</h2>
 
-<h3 align="center">A passionate Frontend Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs </h3>
-
-> Ex-Architectural Draughtsman from Paris
 I'm actually Based in Tunisia.
-
 
 - 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available on: [My Notion](https://z4k8351.notion.site/Hey-I-m-Zakaria-18ccf0eeafe3401aa904ed1a301fc843)
-
 
 - 📫 How to reach me **zbjarchi@gmail.com**
 
