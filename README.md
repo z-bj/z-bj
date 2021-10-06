@@ -9,7 +9,7 @@
 > Ex-Architectural Draughtsman from Paris
 
 
-![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-italic-13png.png)
+![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-folio5-dark.png)
 
 <h2>I love to build amazing React.js' apps.</h2>
 
