@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi all👋, I'm Zakaria</h1>
 
-<h2>I love to build **amazing** React.js' **apps.**</h2>
+<h2>I love to build amazing React.js' apps.</h2>
 
 <h3 align="center">A passionate Frontend Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs </h3>
 
