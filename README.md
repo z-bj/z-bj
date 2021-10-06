@@ -21,7 +21,6 @@ I'm actually Based in Tunisia.
 
 - 👨‍💻 All of my projects are available on my Notion: https://z4k8351.notion.site/Hey-I-m-Zakaria-18ccf0eeafe3401aa904ed1a301fc843
 
-- 💬 Ask me about ** Reactjs**
 
 - 📫 How to reach me **zbjarchi@gmail.com**
 
