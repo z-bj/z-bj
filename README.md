@@ -1,4 +1,5 @@
-![Cover](https://github.com/BjzArchi/BjzArchi/edit/master/img/Notion-cover-folio5-dark.png)
+
+![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-folio5-dark.png)
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Reactjs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
