@@ -13,7 +13,6 @@
 
 <h2>I love to build amazing React.js' apps.</h2>
 
-I'm actually Based in Tunisia.
 
 - 🔭 I’m currently working on...
 
