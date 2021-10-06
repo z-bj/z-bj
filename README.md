@@ -11,7 +11,9 @@
 
 <h3 align="center">A passionate Frontend Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs </h3>
 
-> _Ex-Architectural Draughtsman from Paris_🇫🇷 ****_I'm actually Based in Tunisia._ 🇹🇳 **_Proactive, Agile, Craftsman_**
+> Ex-Architectural Draughtsman from Paris🇫🇷
+I'm actually Based in Tunisia. 🇹🇳
+Proactive, Agile, Craftsman
 
 - 🔭 I’m currently working on ...
 
