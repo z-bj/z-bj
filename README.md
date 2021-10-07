@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available on: [Notion](https://z4k8351.notion.site/Hey-I-m-Zakaria-18ccf0eeafe3401aa904ed1a301fc843)
+- 👨‍💻 All of my projects are available on [Notion](https://z4k8351.notion.site/Hey-I-m-Zakaria-18ccf0eeafe3401aa904ed1a301fc843)
 
 - 📫 Feel free to reach me on **zbjarchi@gmail.com**
 - 🤙 [Book a call with me](https://calendly.com/zakaria-beji/20min?month=2021-10)
