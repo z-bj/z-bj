@@ -16,7 +16,7 @@
 <h2>I love to build amazing React.js' apps.</h2>
 
 
-- 🔭 I’m currently working on Interactive password validation with React
+- 🔭 I’m currently working on **Interactive password validation with React**
 
 - 🌱 I’m currently learning **Grid In CSS**
 
