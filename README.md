@@ -16,9 +16,9 @@
 <h2>I love to build amazing React.js' apps.</h2>
 
 
-- 🔭 I’m currently working on...
+- 🔭 I’m currently working on Interactive password validation with React
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Grid In CSS**
 
 - 👨‍💻 All of my projects are available on [Notion](https://z4k8351.notion.site/Hey-I-m-Zakaria-18ccf0eeafe3401aa904ed1a301fc843)
 
