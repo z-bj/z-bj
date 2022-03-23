@@ -5,12 +5,11 @@
 
 <h1 align="center">Hey 👋 I'm Zakaria</h1>
 
+![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-folio5-dark.png)
+
 > Ex-Architectural Draughtsman from Paris.
 > I use my background to solve any UI or logic issue,
 > my approach is based on a contextual analysis and detailed design development process. 
-
-
-![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-folio5-dark.png)
 
 <h2>I love to build amazing React.js' apps.</h2>
 
