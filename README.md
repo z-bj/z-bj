@@ -7,12 +7,6 @@
 > I use my background to solve any UI or logic issue,
 > my approach is based on a contextual analysis and detailed design development process. 
 
-<h2>I love to build amazing React apps.</h2>
-<!-- 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Reactjs-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a) -->
 
 Actually:
 
