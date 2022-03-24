@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Zakaria</h1>
 
-![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-folio5-dark.png)
+![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-folio5-dark-cut.png)
 
 
 > 📐Ex-Architectural Draughtsman from Paris.
