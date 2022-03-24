@@ -18,7 +18,7 @@ Actually:
 ### Connect with me:
 
 - **zbjarchi@gmail.com**
-- 🤙 [book a Zoom call ](https://calendly.com/zakaria-beji/20min?month=2021-10)
+- 🤙 [Book a Zoom call ](https://calendly.com/zakaria-beji/20min?month=2021-10)
 - [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/zakaria-beji-a20148221/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zakaria-beji-a20148221/#gh-dark-mode-only)
 &nbsp;&nbsp;
