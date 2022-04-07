@@ -5,7 +5,7 @@
 
 > 📐Ex-Architectural Draughtsman from Paris.
 > I use my background to solve any UI or logic issue,
-> my approach is based on a contextual analysis and detailed design development process. 
+> my approach is based on contextual analysis and a detailed design development process. 
 
 
 Actually:
