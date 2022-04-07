@@ -1,6 +1,12 @@
-<h1 align="center">Hey 👋 I'm Zakaria</h1>
 
-![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-folio5-dark-cut2.png)
+<h1>
+ ✌<br>
+  Hi there ― <br> 
+  my name is Zakaria, <br> 
+  passionate developer.
+</h1>
+
+<!-- ![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-folio5-dark-cut2.png) -->
 
 
 > 📐Ex-Architectural Draughtsman from Paris.
@@ -14,15 +20,6 @@ Actually:
 - 🌱 I’m currently learning **Grid In CSS**
 - 👨‍💻 My projects are available on [Notion](https://z4k8351.notion.site/Hey-I-m-Zakaria-18ccf0eeafe3401aa904ed1a301fc843)
 - 📄 Know about my [experiences](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a769225-5ac9-48f0-9243-8b5bd91e38c8/CV.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20211006%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211006T093534Z&X-Amz-Expires=86400&X-Amz-Signature=75d97e8d82893d080f1a7e30d01903f3a8ca3c629ead7a6f3a96f2f63272e834&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22CV.pdf%22)
-
-### Connect with me:
-
-- **zbjarchi@gmail.com**
-- [Book a Zoom call 🤙](https://calendly.com/zakaria-beji/20min?month=2021-10)
-- [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/zakaria-beji-a20148221/#gh-light-mode-only)
- [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zakaria-beji-a20148221/#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 
 ### Languages and Tools:
 
@@ -49,3 +46,12 @@ Actually:
 [nodejs]: https://nodejs.org/en/
 [graphql]: https://graphql.org/
 [git]: https://git-scm.com/
+
+
+#### Contact me on [Zoom](https://calendly.com/zakaria-beji/20min?month=2022-04) or [Telegram](https://t.me/Zbj_archi), we can chat in 🇫🇷  🇬🇧  .
+#### - **zbjarchi@gmail.com**
+
+### ― See ya! 👋
+
+<br>
+
