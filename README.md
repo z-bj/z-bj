@@ -49,7 +49,7 @@ Actually:
 
 
 #### Contact me on [Zoom](https://calendly.com/zakaria-beji/20min?month=2022-04) or [Telegram](https://t.me/Zbj_archi), we can chat in 🇫🇷  🇬🇧  .
-#### - **zbjarchi@gmail.com**
+
 
 ### ― See ya! 👋
 
