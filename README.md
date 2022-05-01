@@ -42,7 +42,7 @@
 [nodejs]: https://nodejs.org/en/
 [graphql]: https://graphql.org/
 [git]: https://git-scm.com/
-[Googling]:https://ahrefs.com/blog/google-advanced-search-operators/
+[Googling]:https://www.youtube.com/watch?v=cEBkvm0-rg0&list=WL&index=24
 [material]:https://mui.com/
 [graph]:https://graphql.org/
 [Ex]:https://expressjs.com/
