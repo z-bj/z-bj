@@ -20,19 +20,10 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][nodejs]
 [<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />][Ex]
 
-
-
-
-           
-          
-
 <br/>
 <hr>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BjzArchi&show_icons=true&locale=en&layout=compact" alt="1hanzla100" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BjzArchi&show_icons=true&locale=en" alt="BjzArchi" /></p>
 
 [html]: https://developer.mozilla.org/fr/docs/Web/HTML
 [vscode]: https://code.visualstudio.com/
