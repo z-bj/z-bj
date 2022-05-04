@@ -1,4 +1,4 @@
-![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-folio5-dark-cut2.png)
+<!-- ![Cover](https://github.com/BjzArchi/BjzArchi/blob/master/img/Notion-cover-folio5-dark-cut2.png) -->
 
 ### 📐Ex-Architectural Draughtsman from Paris. I use my background to solve any UI or logic issue, my approach is based on a contextual analysis and detailed design development process.
 
