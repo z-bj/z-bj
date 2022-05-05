@@ -3,7 +3,7 @@
 <!-- # Put on your wetsuit, <br/>load your oxygen tanks, we dive right away. 🦑 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=2100&color=FFFFFF&background=004EB2&center=true&vCenter=true&width=500&lines=Put+on+your+wetsuit%2C;Load+your+oxygen+tanks%2C;We+dive+right+away..+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=1500&color=004EB2&vCenter=true&multiline=true&width=500&height=150&lines=Load+your+oxygen+tanks%2C;put+on+your+wetsuit%2C;we+dive+right+away.)](https://git.io/typing-svg)
 
 ![Cover](https://github.com/z-bj/z-bj/blob/master/img/iceberg.jpg)
 
