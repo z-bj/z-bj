@@ -1,6 +1,6 @@
 ![Cover](https://github.com/z-bj/z-bj/blob/master/img/under-construction.gif)
 
-#Put on your wetsuit, load your oxygen tanks, we dive now ⚓️🦑
+## Put on your wetsuit, load your oxygen tanks, <br/> we dive right now.🦑
 
 ![Cover](https://github.com/z-bj/z-bj/blob/master/img/iceberg.jpg)
 
@@ -12,7 +12,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#000b76" fill-opacity="1" d="M0,192L30,208C60,224,120,256,180,250.7C240,245,300,203,360,160C420,117,480,75,540,101.3C600,128,660,224,720,256C780,288,840,256,900,240C960,224,1020,224,1080,213.3C1140,203,1200,181,1260,181.3C1320,181,1380,203,1410,213.3L1440,224L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320L0,320Z"></path></svg>
 
 
-![Cover](https://github.com/z-bj/z-bj/blob/master/img/LinkedIn3.jpg)
+![Cover](https://github.com/z-bj/z-bj/blob/master/img/Notion-cover-folio5-dark.jpg)
 
 
 [<img align="left" alt="Googling" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="padding-right:10px;" />][Googling]
