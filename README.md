@@ -17,12 +17,11 @@
 
   
 <!-- ICONE Z -->
-<img align="left" alt="z_icon" width="50" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.png" 
-     style="padding-top:10px;"/>
+<img align="left" alt="z_icon" width="50" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.png"/>
 
 
-# Ex-Architectural Draughtsman from Paris.<br/>
-<p>I use my background to solve any UI or logic issue.<br/> My approach is based on a contextual analysis and detailed design development process.</p>
+# Ex-Architectural Draughtsman from Paris.
+<h4>I use my background to solve any UI or logic issue.<br/> My approach is based on a contextual analysis and detailed design development process.</h4>
 
 
 
@@ -52,6 +51,16 @@
 
 <br/>
 <hr>
+
+### Some technologies I like working with
+<!-- ```json
+{
+  "frontend": ["react", "gatsby|next", "svelte", "mui|tailwind", "react-native@alpha"],
+  "backend": ["typescript", "nodejs", "express|nest.js", "mongodb", "sql@alpha", "rust@alpha"],
+  "blockchain": ["solidity", "rust:elrond", "web3|ethers.js", "truffle|hardhat", "ipfs"],
+}
+``` -->
+
 
 
 
