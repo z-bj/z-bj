@@ -23,13 +23,9 @@
 <!-- RDV -->
 
 ### 📫 Let’s chat.
+<a style="border: 5px solid red;" href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-red.png"></a>
 
-Pick a slot if you'd like to meet me
-
-<a href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="498" alt="meet_link" src="zoom-calendly-call.png"></a>
-
-
-
+<br/>
 
 [<img align="left" alt="Googling" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="padding-right:10px;" />][Googling]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][js]
