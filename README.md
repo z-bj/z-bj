@@ -9,19 +9,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe-ui&size=49&duration=2500&color=044CB0&background=FFFFFF00&center=true&vCenter=true&width=1200&height=88&lines=Hello+world!+;Load+your+oxygen+tanks%2C+put+your+wet+suit.;We+dive+right+away..+%E2%9A%93%F0%9F%90%99)](https://git.io/typing-svg)
 
-<!-- ![Cover](https://github.com/z-bj/z-bj/blob/master/img/iceberg-react.jpg) -->
 
-<img align="left" alt="iceberg" width="auto" src="https://github.com/z-bj/z-bj/blob/master/img/iceberg-react.jpg" style="padding-top:0;" />
+<!--  ICE BERG REACT -->
+<!-- ![Cover](https://github.com/z-bj/z-bj/blob/master/img/iceberg-react.jpg) -->
+<img  alt="iceberg" width="auto" src="https://github.com/z-bj/z-bj/blob/master/img/iceberg-react.jpg" />
 
 
   
 <!-- ICONE Z -->
 <img align="left" alt="z_icon" width="50" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.png" 
-     style="margin-top:10px;"/>
+     style="padding-top:10px;"/>
 
 
-### 📐Ex-Architectural Draughtsman from Paris. I use my background to solve any UI or logic issue, my approach is based on a contextual analysis and detailed design development process.
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#000b76" fill-opacity="1" d="M0,192L30,208C60,224,120,256,180,250.7C240,245,300,203,360,160C420,117,480,75,540,101.3C600,128,660,224,720,256C780,288,840,256,900,240C960,224,1020,224,1080,213.3C1140,203,1200,181,1260,181.3C1320,181,1380,203,1410,213.3L1440,224L1440,320L1410,320C1380,320,1320,320,1260,320C1200,320,1140,320,1080,320C1020,320,960,320,900,320C840,320,780,320,720,320C660,320,600,320,540,320C480,320,420,320,360,320C300,320,240,320,180,320C120,320,60,320,30,320L0,320Z"></path></svg>
+# Ex-Architectural Draughtsman from Paris.<br/>
+<p>I use my background to solve any UI or logic issue.<br/> My approach is based on a contextual analysis and detailed design development process.</p>
+
 
 
 <!-- RDV -->
@@ -71,8 +73,6 @@
 
 #### Contact me on [Zoom](https://calendly.com/zakaria-beji/20min?month=2022-04) or [Telegram](https://t.me/Zbj_archi), we can chat in 🇫🇷  🇬🇧  .
 
-<!--  Think the code-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=35&duration=2500&color=004C9C&vCenter=true&multiline=true&width=700&height=100&lines=Think+the+Code%2C+code+the+Thinking.)](https://git.io/typing-svg)
 
 ### ― See ya! 👋
 
