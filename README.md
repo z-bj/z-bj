@@ -4,8 +4,7 @@
 
 <!-- DIVING txt -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=49&duration=2500&color=044CB0&background=FFFFFF&center=true&vCenter=true&width=1200&height=88&lines=Hi!+%F0%9F%91%8B;Load+your+oxygen+tanks%2C+put+your+wet+suit.;We+dive+right+away..+%E2%9A%93%F0%9F%A6%88)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=49&duration=2500&color=044CB0&background=FFFFFF&center=true&vCenter=true&width=1200&height=88&lines=Hello+world!+;Load+your+oxygen+tanks%2C+put+your+wet+suit.;We+dive+right+away..+%E2%9A%93%F0%9F%A6%88)](https://git.io/typing-svg)
 
 <!-- ![Cover](https://github.com/z-bj/z-bj/blob/master/img/iceberg-react.jpg) -->
 
