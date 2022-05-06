@@ -2,7 +2,7 @@
 
 <!-- # Put on your wetsuit, <br/>load your oxygen tanks, we dive right away. ⚓🦑 -->
 
-
+<!-- DIVING txt -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=1500&color=004EB2&vCenter=true&multiline=true&width=500&height=150&lines=Load+your+oxygen+tanks%2C;put+on+your+wetsuit%2C;we+dive+right+away.)](https://git.io/typing-svg)
 
 
@@ -59,6 +59,8 @@
 
 #### Contact me on [Zoom](https://calendly.com/zakaria-beji/20min?month=2022-04) or [Telegram](https://t.me/Zbj_archi), we can chat in 🇫🇷  🇬🇧  .
 
+<!--  Think the code-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica&size=35&duration=2500&color=004C9C&vCenter=true&multiline=true&width=700&height=100&lines=Think+the+Code%2C+code+the+Thinking.)](https://git.io/typing-svg)
 
 ### ― See ya! 👋
 
