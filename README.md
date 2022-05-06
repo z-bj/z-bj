@@ -1,10 +1,6 @@
 <!-- UNDER CONSTRUCTION -->
 <!-- ![Cover](https://github.com/z-bj/z-bj/blob/master/img/under-construction.gif) -->
 <!-- TITLE -->
-<!-- # Put on your wetsuit, <br/>load your oxygen tanks, we dive right away. ⚓🦑 -->
-
-
-
 <!-- DIVING txt -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=38&duration=2500&color=044CB0&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Welcome+to+my+profile%2C;load+your+oxygen+tanks%2C+put+your+wet+suit%2C;we+dive+right+away..+%E2%9A%93%F0%9F%90%99)](https://git.io/typing-svg)
@@ -15,10 +11,11 @@
 <img  alt="iceberg" width="auto" src="https://github.com/z-bj/z-bj/blob/master/img/iceberg-react.jpg" />
 
 
-  
 <!-- ICONE Z -->
 <img style="float: left;" alt="z_icon" width="50" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.png"/>
 
+
+<!-- HI -->
 <h1>
   Hi there ― <br> 
   my name is Zak, <br> 
@@ -30,56 +27,50 @@
 <h4>I use my background to solve any UI or logic issue.<br/> My approach is based on a contextual analysis and detailed design development process.</h4>
 
 
-
 <!-- RDV -->
 
 ### 📫 Connect with me.
-<a style="border: 5px solid red;" href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-blue.png"></a>
-
-[<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/zakaria-beji-a20148221/)
 
 
+<!--  GMAIL  -->
 <a href="mailto:zbjarchi@gmail.com"><img align="left" alt="Git" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/gmail.png" style="padding-right:10px;" /></a>
 
-<hr>
+<!-- LinkedIn -->
+[<img align="left" alt="linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/zakaria-beji-a20148221/)
+
+<!--  TELEGRAM  -->
+[<img align="left" alt="telegram" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/telegram-logo-png-telegram-app-icon-png-50-px-1600.png" style="padding-right:10px;" />](https://t.me/air_akaz)
+
+<!-- FreeCodeCamp -->
+[<img align="left" alt="freecodecamp" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/freecodecamp.svg" style="padding-right:10px;" />](https://www.freecodecamp.org/)
+
+<!-- ZOOM CALENDLY -->
+<a style="border: 5px solid red;" href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-blue.png"></a>
 
 
+<br /><hr />
 
-
-
-
-
-
-
-
-
+### 3D/Graphism
 
 
 [<img align="left" alt="Rhino3D" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/rhino.svg" style="padding-right:10px;" />](https://www.rhino3d.com/)
 
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" style="padding-right:10px;" />](https://www.gatsbyjs.com/)
+[<img align="left" alt="Photoshop" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/Photoshop.svg" style="padding-right:10px;" />](https://www.photopea.com/)
 
-[<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />](https://www.heroku.com/)
-
-
-
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
-
-[<img align="left" alt="NextJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />](https://nextjs.org/)
-
-[<img align="left" alt="VIM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />](https://vim-adventures.com/)
-
-[<img align="left" alt="VScode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
-
-[<img align="left" alt="StoryBook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" style="padding-right:10px;" />](https://storybook.js.org/)
-
-[<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />](https://redux.js.org/)
-[<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />](https://firebase.google.com/?gclsrc=ds&gclsrc=ds)
-
-[<img align="left" alt="Googling" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="padding-right:10px;" />](https://www.youtube.com/watch?v=cEBkvm0-rg0&list=WL&index=24)
+[<img align="left" alt="Ilustrator" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/Illustrator.svg" style="padding-right:10px;" />](https://excalidraw.com/)
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="26px" style="padding-right:10px;" />
 ](https://www.figma.com/)
+
+
+
+### Some technologies I like coding with
+
+
+[<img align="left" alt="VIM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />](https://vim-adventures.com/)
+
+[<img align="left" alt="Googling" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="padding-right:10px;" />](https://www.youtube.com/watch?v=cEBkvm0-rg0&list=WL&index=24)
+
 
 [<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/)
 
@@ -98,7 +89,38 @@
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://learngitbranching.js.org/)
 
+
+[<img align="left" alt="VScode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
+
+
+[<img align="left" alt="Notion" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/notion.svg" style="padding-right:10px;" />](https://www.notion.so/)
+
+
+[<img align="left" alt="regex" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/regex_icon.svg" style="padding-right:10px;" />](https://regex101.com/)
+
+[<img align="left" alt="axios" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/Axios.svg" style="padding-right:10px;" />](https://axios-http.com/)
+
+
+[<img align="left" alt="postman" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/postman-icon.svg" />](https://www.postman.com/)
+
+
+
+
 ### Learning:
+
+[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" style="padding-right:10px;" />](https://www.gatsbyjs.com/)
+
+[<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />](https://www.heroku.com/)
+
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
+
+[<img align="left" alt="NextJs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />](https://nextjs.org/)
+
+
+[<img align="left" alt="StoryBook" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" style="padding-right:10px;" />](https://storybook.js.org/)
+
+[<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />](https://redux.js.org/)
+[<img align="left" alt="firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />](https://firebase.google.com/?gclsrc=ds&gclsrc=ds)
 
 [<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />](https://www.typescriptlang.org/)
 
@@ -107,7 +129,6 @@
 [<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />](https://expressjs.com/)
 
 
-### Some technologies I like working with
 <!-- ```json
 {
   "frontend": ["react", "gatsby|next", "svelte", "mui|tailwind", "react-native@alpha"],
@@ -116,47 +137,8 @@
 }
 ``` -->
 
-
-
-[Telegram]: (https://t.me/air_akaz)
-
-[notion]: (https://www.notion.so/)
-[postman]: (https://web.postman.co/)
-[redux]: [https://redux.js.org/]
-[storybook]: [https://storybook.js.org/]
-[vscode]: [https://code.visualstudio.com/]
-[nextjs]: [https://nextjs.org/]
-[vim]: [https://vim-adventures.com/]
-[mongoose]: [https://mongoosejs.com/]
-[mongodb]: [https://www.mongodb.com/]
-
-[heroku]: [https://www.heroku.com/]
-[firebase]: [https://firebase.google.com/?gclsrc=ds&gclsrc=ds]
-[gatsby]: [https://www.gatsbyjs.com/]
-[Figma]: https://www.figma.com/
-[bash]: https://www.gnu.org/software/bash/
-[html]: https://developer.mozilla.org/fr/docs/Web/HTML
-[vscode]: https://code.visualstudio.com/
-[css]: https://developer.mozilla.org/fr/docs/Web/CSS
-[react]: https://reactjs.org/
-[js]: https://developer.mozilla.org/fr/docs/Web/JavaScript
-[nodejs]: https://nodejs.org/en/
-[graphql]: https://graphql.org/
-[git]: https://learngitbranching.js.org/?locale=fr_FR
-[Googling]: https://www.youtube.com/watch?v=cEBkvm0-rg0&list=WL&index=24
-[material-ui]: https://mui.com/
-[graphql]: https://graphql.org/
-[Express]: https://expressjs.com/
-[TypeScript]: https://www.typescriptlang.org/
-
-[Rhino3D]: (https://www.rhino3d.com/)
-
-
-
-
-
-
-
+<br/>
+<hr />
 
 <details>
   <summary>Github Stats ⚡</summary>
@@ -165,15 +147,6 @@
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-bj&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
-
-
-
-
-
-
-
-
- we can chat in 🇫🇷  🇬🇧  .
 
 
 ### ― See ya! 👋
