@@ -3,6 +3,8 @@
 <!-- TITLE -->
 <!-- # Put on your wetsuit, <br/>load your oxygen tanks, we dive right away. ⚓🦑 -->
 
+
+
 <!-- DIVING txt -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe-ui&size=49&duration=2500&color=044CB0&background=FFFFFF00&center=true&vCenter=true&width=1200&height=88&lines=Hello+world!+;Load+your+oxygen+tanks%2C+put+your+wet+suit.;We+dive+right+away..+%E2%9A%93%F0%9F%90%99)](https://git.io/typing-svg)
@@ -14,10 +16,8 @@
 
   
 <!-- ICONE Z -->
-
-<br />
-<img align="left" alt="z_icon" width="25" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.png" />
-
+<img align="left" alt="z_icon" width="50" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.png" 
+     style="margin-top:10px;"/>
 
 
 ### 📐Ex-Architectural Draughtsman from Paris. I use my background to solve any UI or logic issue, my approach is based on a contextual analysis and detailed design development process.
