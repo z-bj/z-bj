@@ -44,6 +44,8 @@
 <!-- FreeCodeCamp -->
 [<img align="left" alt="freecodecamp" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/freecodecamp.svg" style="padding-right:10px;" />](https://www.freecodecamp.org/)
 
+<br>
+
 <!-- ZOOM CALENDLY -->
 <a style="border: 5px solid red;" href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-blue.png"></a>
 
@@ -102,6 +104,10 @@
 
 
 [<img align="left" alt="postman" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/postman-icon.svg" />](https://www.postman.com/)
+
+
+[<img align="left" alt="styled-components" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/styled-components.png" />](https://styled-components.com/)
+
 
 
 <hr > <br />
