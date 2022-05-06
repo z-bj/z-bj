@@ -23,7 +23,7 @@
 <!-- RDV -->
 
 ### 📫 Let’s chat.
-<a style="border: 5px solid red;" href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-red.png"></a>
+<a style="border: 5px solid red;" href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-blue.png"></a>
 
 <br/>
 
