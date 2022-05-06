@@ -1,9 +1,11 @@
 ![Cover](https://github.com/z-bj/z-bj/blob/master/img/under-construction.gif)
 
-<!-- # Put on your wetsuit, <br/>load your oxygen tanks, we dive right away. 🦑 -->
+<!-- # Put on your wetsuit, <br/>load your oxygen tanks, we dive right away. ⚓🦑 -->
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=1500&color=004EB2&vCenter=true&multiline=true&width=500&height=150&lines=Load+your+oxygen+tanks%2C;put+on+your+wetsuit%2C;we+dive+right+away.)](https://git.io/typing-svg)
+
+
 
 ![Cover](https://github.com/z-bj/z-bj/blob/master/img/iceberg.jpg)
 
@@ -54,7 +56,7 @@
 [Ex]:https://expressjs.com/
 [TS]:https://www.typescriptlang.org/
 
-# 🎁
+
 
 #### Contact me on [Zoom](https://calendly.com/zakaria-beji/20min?month=2022-04) or [Telegram](https://t.me/Zbj_archi), we can chat in 🇫🇷  🇬🇧  .
 
