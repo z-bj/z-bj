@@ -7,7 +7,7 @@
 
 
 
-![Cover](https://github.com/z-bj/z-bj/blob/master/img/iceberg.jpg)
+![Cover](https://github.com/z-bj/z-bj/blob/master/img/iceberg-react.jpg)
 
 
 
