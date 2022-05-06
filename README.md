@@ -104,9 +104,13 @@
 [<img align="left" alt="postman" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/postman-icon.svg" />](https://www.postman.com/)
 
 
-
+<hr > <br />
 
 ### Learning:
+
+[<img align="left" alt="threejs" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/Three.js_Icon.svg" style="padding-right:10px;" />](https://threejs.org/)
+
+[<img align="left" alt="Greesock" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/gsap-greensock.svg" style="padding-right:10px;" />](https://greensock.com/gsap/)
 
 [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" style="padding-right:10px;" />](https://www.gatsbyjs.com/)
 
@@ -127,6 +131,10 @@
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](nodejs)
 
 [<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />](https://expressjs.com/)
+
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
+
+
 
 
 <!-- ```json
