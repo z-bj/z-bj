@@ -1,5 +1,6 @@
+<!-- UNDER CONSTRUCTION -->
 <!-- ![Cover](https://github.com/z-bj/z-bj/blob/master/img/under-construction.gif) -->
-
+<!-- TITLE -->
 <!-- # Put on your wetsuit, <br/>load your oxygen tanks, we dive right away. ⚓🦑 -->
 
 <!-- DIVING txt -->
@@ -11,6 +12,11 @@
 <img align="left" alt="iceberg" width="auto" src="https://github.com/z-bj/z-bj/blob/master/img/iceberg-react.jpg" style="padding-top:0;" />
 
 
+  
+<!-- ICONE Z -->
+
+<hr />
+<img align="left" alt="z_icon" width="25" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.svg" style="padding-top:0;" />
 
 
 
@@ -23,7 +29,7 @@
 ### 📫 Let’s chat.
 <a style="border: 5px solid red;" href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-blue.png"></a>
 
-<br/>
+<hr>
 
 [<img align="left" alt="Googling" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="padding-right:10px;" />][Googling]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][js]
