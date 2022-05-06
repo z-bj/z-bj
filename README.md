@@ -115,6 +115,28 @@
 
 
 
+
+
+
+
+
+
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=z-bj&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z-bj&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+
+
+
+
+
+
+
+
+
 #### Contact me on [Zoom](https://calendly.com/zakaria-beji/20min?month=2022-04) or [Telegram](https://t.me/Zbj_archi), we can chat in 🇫🇷  🇬🇧  .
 
 
