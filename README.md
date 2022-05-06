@@ -15,8 +15,8 @@
   
 <!-- ICONE Z -->
 
-<hr />
-<img align="left" alt="z_icon" width="25" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.svg" style="padding-top:0;" />
+<br />
+<img align="left" alt="z_icon" width="25" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.png" />
 
 
 
