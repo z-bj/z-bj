@@ -7,7 +7,7 @@
 
 <!-- DIVING txt -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe-ui&size=49&duration=2500&color=044CB0&background=FFFFFF00&center=true&vCenter=true&width=1200&height=88&lines=Hello+world!+;Load+your+oxygen+tanks%2C+put+your+wet+suit.;We+dive+right+away..+%E2%9A%93%F0%9F%90%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=38&duration=2500&color=044CB0&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Welcome+to+my+profile%2C;load+your+oxygen+tanks%2C+put+your+wet+suit%2C;we+dive+right+away..+%E2%9A%93%F0%9F%90%99)](https://git.io/typing-svg)
 
 
 <!--  ICE BERG REACT -->
@@ -17,10 +17,16 @@
 
   
 <!-- ICONE Z -->
-<img align="left" alt="z_icon" width="50" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.png"/>
+<img style="float: left;" alt="z_icon" width="50" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.png"/>
+
+<h1>
+  Hi there ― <br> 
+  my name is Zak, <br> 
+  passionate developer.
+</h1>
 
 
-# Ex-Architectural Draughtsman from Paris.
+## Ex-Architectural Draughtsman from Paris.
 <h4>I use my background to solve any UI or logic issue.<br/> My approach is based on a contextual analysis and detailed design development process.</h4>
 
 
