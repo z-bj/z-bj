@@ -32,8 +32,12 @@
 ### 📫 Connect with me.
 
 
+<!-- ZOOM CALENDLY -->
+<a style="border: 5px solid red; display:block" href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-blue.png"></a>
+<br>
+
 <!--  GMAIL  -->
-<a href="mailto:zbjarchi@gmail.com"><img align="left" alt="Git" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/gmail.png" style="padding-right:10px;" /></a>
+<a href="mailto:zbjarchi@gmail.com"><img align="left" alt="Git" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/gmail.png" style="padding-right:10px;" /></a>
 
 <!-- LinkedIn -->
 [<img align="left" alt="linkedin" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/zakaria-beji-a20148221/)
@@ -44,10 +48,8 @@
 <!-- FreeCodeCamp -->
 [<img align="left" alt="freecodecamp" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/freecodecamp.svg" style="padding-right:10px;" />](https://www.freecodecamp.org/)
 
-<br>
 
-<!-- ZOOM CALENDLY -->
-<a style="border: 5px solid red;" href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-blue.png"></a>
+
 
 
 <br /><hr />
@@ -100,13 +102,13 @@
 
 [<img align="left" alt="regex" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/regex_icon.svg" style="padding-right:10px;" />](https://regex101.com/)
 
-[<img align="left" alt="axios" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/Axios.svg" style="padding-right:10px;" />](https://axios-http.com/)
+[<img align="left" alt="axios" width="40px" src="https://github.com/z-bj/z-bj/blob/master/img/Axios.svg" style="padding-right:10px;" />](https://axios-http.com/)
 
 
 [<img align="left" alt="postman" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/postman-icon.svg" />](https://www.postman.com/)
 
 
-[<img align="left" alt="styled-components" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/styled-components.png" />](https://styled-components.com/)
+[<img align="left" alt="styled-components" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/styled-components.png" />](https://styled-components.com/)
 
 
 
