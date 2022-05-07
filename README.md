@@ -23,45 +23,54 @@
 
 
 
-
-### 3D/Graphism
-
-
-[<img align="left" alt="Rhino3D" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/rhino.svg" style="padding-right:10px;" />](https://www.rhino3d.com/)
-
-[<img align="left" alt="Photoshop" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/Photoshop.svg" style="padding-right:10px;" />](https://www.photopea.com/)
-
-[<img align="left" alt="Ilustrator" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/Illustrator.svg" style="padding-right:10px;" />](https://excalidraw.com/)
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="26px" style="padding-right:10px;" />
-](https://www.figma.com/)
-
-
-
 ### Some technologies I like coding with
 
 
-[<img align="left" alt="VIM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />](https://vim-adventures.com/)
-
-[<img align="left" alt="Googling" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="padding-right:10px;" />](https://www.youtube.com/watch?v=cEBkvm0-rg0&list=WL&index=24)
-
-
-[<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/)
-
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
-
-[<img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />](https://mui.com/)
-
-[<img align="left" alt="Graph-QL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />](https://graphql.org/)
-
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/fr/docs/Web/HTML)
+
 
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/fr/docs/Web/CSS)
 
 
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+
+
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://reactjs.org/)
+
+
+[<img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="padding-right:10px;" />](https://mui.com/)
+
+
+[<img align="left" alt="styled-components" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/styled-components.png" />](https://styled-components.com/)
+
+
+[<img align="left" alt="axios" width="40px" src="https://github.com/z-bj/z-bj/blob/master/img/Axios.svg" style="padding-right:10px;" />](https://axios-http.com/)
+
+
+[<img align="left" alt="postman" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/postman-icon.svg" />](https://www.postman.com/)
+
+
+[<img align="left" alt="Graph-QL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />](https://graphql.org/)
+
+
+[<img align="left" alt="Googling" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="padding-right:10px;" />](https://www.youtube.com/watch?v=cEBkvm0-rg0&list=WL&index=24)
+
+
+
+[<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" style="padding-right:10px;" />](https://www.gnu.org/software/bash/)
+
+
+[<img align="left" alt="regex" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/regex_icon.svg" style="padding-right:10px;" />](https://regex101.com/)
+
+
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://learngitbranching.js.org/)
+
+
+[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" style="padding-right:10px;" />](https://www.gatsbyjs.com/)
+
+
+[<img align="left" alt="VIM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />](https://vim-adventures.com/)
+
 
 
 [<img align="left" alt="VScode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
@@ -70,27 +79,31 @@
 [<img align="left" alt="Notion" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/notion.svg" style="padding-right:10px;" />](https://www.notion.so/)
 
 
-[<img align="left" alt="regex" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/regex_icon.svg" style="padding-right:10px;" />](https://regex101.com/)
-
-[<img align="left" alt="axios" width="40px" src="https://github.com/z-bj/z-bj/blob/master/img/Axios.svg" style="padding-right:10px;" />](https://axios-http.com/)
 
 
-[<img align="left" alt="postman" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/postman-icon.svg" />](https://www.postman.com/)
-
-
-[<img align="left" alt="styled-components" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/styled-components.png" />](https://styled-components.com/)
+ <br />
 
 
 
-<hr > <br />
+### 3D/Graphism
+[<img align="left" alt="Rhino3D" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/rhino.svg" style="padding-right:10px;" />](https://www.rhino3d.com/)
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="26px" style="padding-right:10px;" />](https://www.figma.com/)
+
+[<img align="left" alt="Photoshop" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/Photoshop.svg" style="padding-right:10px;" />](https://www.photopea.com/)
+
+[<img align="left" alt="Ilustrator" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/Illustrator.svg" style="padding-right:10px;" />](https://excalidraw.com/)
+
+<br />
+
 
 ### Learning:
 
 [<img align="left" alt="threejs" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/Three.js_Icon.svg" style="padding-right:10px;" />](https://threejs.org/)
 
-[<img align="left" alt="Greesock" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/gsap-greensock.svg" style="padding-right:10px;" />](https://greensock.com/gsap/)
+[<img  align="left" alt="Greesock" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/gsap-greensock.svg" style="padding-right:10px;" />](https://greensock.com/gsap/)
 
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" style="padding-right:10px;" />](https://www.gatsbyjs.com/)
+
 
 [<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" style="padding-right:10px;" />](https://www.heroku.com/)
 
@@ -111,6 +124,8 @@
 [<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />](https://expressjs.com/)
 
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />](https://sass-lang.com/)
+
+
 
 
 
