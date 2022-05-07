@@ -3,8 +3,13 @@
 <!-- TITLE -->
 <!-- DIVING txt -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=38&duration=2500&color=044CB0&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Welcome+to+my+profile%2C;load+your+oxygen+tanks%2C+put+your+wet+suit%2C;we+dive+right+away..+%E2%9A%93%F0%9F%90%99)](https://git.io/typing-svg)
 
+
+
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&size=38&duration=2500&color=044CB0&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Welcome+to+my+profile%2C;load+your+oxygen+tanks%2C+put+your+wet+suit%2C;we+dive+right+away..+%E2%9A%93%F0%9F%90%99)](https://git.io/typing-svg)
+ -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=750&color=51B9DE&background=0180FF00&center=true&vCenter=true&multiline=true&width=1200&height=1050&lines=Zakaria+Beji;React.js+Frontend+Developer;+++++;Hi+there+%E2%80%95+;%F0%9F%A6%9C;Load+your+oxygen+tanks%2C+put+your+wetsuit++;---;%F0%9F%A5%BD;We+dive+right+away+%E2%9A%93;+++;%F0%9F%92%A6;%F0%9F%A6%88--------%F0%9F%A6%90-----------%F0%9F%90%A0-----------%F0%9F%90%A1;-------------------------------------;%F0%9F%90%B3-----------%F0%9F%90%99;+-------------------------------------;+-------------------------------------;+-------------------------------------;%F0%9F%A6%91)](#)
 
 <!--  ICE BERG REACT -->
 <!-- ![Cover](https://github.com/z-bj/z-bj/blob/master/img/iceberg-react.jpg) -->
@@ -15,44 +20,13 @@
 <img style="float: left;" alt="z_icon" width="50" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.png"/>
 
 
-<!-- HI -->
-<h1>
-  Hi there ― <br> 
-  my name is Zak, <br> 
-  passionate developer.
-</h1>
 
 
 ## Ex-Architectural Draughtsman from Paris.
 <h4>I use my background to solve any UI or logic issue.<br/> My approach is based on a contextual analysis and detailed design development process.</h4>
 
 
-<!-- RDV -->
 
-### 📫 Connect with me.
-
-
-<!-- ZOOM CALENDLY -->
-<a style="border: 5px solid red; display:block" href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-blue.png"></a>
-<br>
-
-<!--  GMAIL  -->
-<a href="mailto:zbjarchi@gmail.com"><img align="left" alt="Git" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/gmail.png" style="padding-right:10px;" /></a>
-
-<!-- LinkedIn -->
-[<img align="left" alt="linkedin" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/zakaria-beji-a20148221/)
-
-<!--  TELEGRAM  -->
-[<img align="left" alt="telegram" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/telegram-logo-png-telegram-app-icon-png-50-px-1600.png" style="padding-right:10px;" />](https://t.me/air_akaz)
-
-<!-- FreeCodeCamp -->
-[<img align="left" alt="freecodecamp" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/freecodecamp.svg" style="padding-right:10px;" />](https://www.freecodecamp.org/)
-
-
-
-
-
-<br /><hr />
 
 ### 3D/Graphism
 
@@ -154,7 +128,34 @@
 ``` -->
 
 <br/>
-<hr />
+
+
+
+<!-- RDV -->
+
+### 📫 Connect with me.
+
+
+<!-- ZOOM CALENDLY -->
+<a style="border: 5px solid red; display:block" href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-blue.png"></a>
+<br>
+
+<!--  GMAIL  -->
+<a href="mailto:zbjarchi@gmail.com"><img align="left" alt="Git" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/gmail.png" style="padding-right:10px;" /></a>
+
+<!-- LinkedIn -->
+[<img align="left" alt="linkedin" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/zakaria-beji-a20148221/)
+
+<!--  TELEGRAM  -->
+[<img align="left" alt="telegram" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/telegram-logo-png-telegram-app-icon-png-50-px-1600.png" style="padding-right:10px;" />](https://t.me/air_akaz)
+
+<!-- FreeCodeCamp -->
+[<img align="left" alt="freecodecamp" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/freecodecamp.svg" style="padding-right:10px;" />](https://www.freecodecamp.org/)
+
+<br /><hr />
+
+
+
 
 <details>
   <summary>Github Stats ⚡</summary>
