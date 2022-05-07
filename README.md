@@ -5,7 +5,7 @@
 
 <!-- Hi there -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=750&color=51B9DE&background=0180FF00&center=true&vCenter=true&multiline=true&width=1200&height=1300&lines=Zakaria+Beji;React.js+Frontend+Developer;+++;%E2%9D%84%E2%9D%84%E2%9D%84%F0%9F%90%A7%E2%9D%84%E2%9D%84%E2%9D%84;+Hi+there;+++;Load+your+oxygen+tanks%2C;put+your+wetsuit..;---;%F0%9F%A4%BF;---;%E2%9A%93+We+dive+right+away%E2%9A%93;+++%F0%9F%92%A6;+++;+++%F0%9F%90%B3---------------%F0%9F%90%9F%F0%9F%A6%88---------------%F0%9F%A6%90;+++;%F0%9F%90%8B%F0%9F%90%99;-------------------------------------;%F0%9F%A6%91)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&duration=750&color=51B9DE&background=0180FF00&center=true&vCenter=true&multiline=true&width=1200&height=1300&lines=Zakaria+Beji;React.js+Frontend+Developer;+++;%E2%9D%84%E2%9D%84%E2%9D%84%F0%9F%90%A7%E2%9D%84%E2%9D%84%E2%9D%84;+Hi+there--;+++;Load+your+oxygen+tanks%2C;put+your+wetsuit..;---;%F0%9F%A4%BF;---;%E2%9A%93+We+dive+right+away%E2%9A%93;+++%F0%9F%92%A6;+++;+++%F0%9F%90%B3---------------%F0%9F%90%9F%F0%9F%A6%88---------------%F0%9F%A6%90;+++;%F0%9F%90%8B%F0%9F%90%99;-------------------------------------;%F0%9F%A6%91)](#)
 
 <!--  ICE BERG REACT -->
 <!-- ![Cover](https://github.com/z-bj/z-bj/blob/master/img/iceberg-react.jpg) -->
