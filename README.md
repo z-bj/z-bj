@@ -18,7 +18,7 @@
 
 
 
-## Ex-Architectural Draughtsman from Paris.
+## Ex-Architectural Draftsman from Paris.
 <h4>I use my background to solve any UI or logic issue.<br/> My approach is based on a contextual analysis and detailed design development process.</h4>
 
 
