@@ -167,7 +167,7 @@
 <br>
 
 <!--  GMAIL  -->
-<a href="mailto:zbjarchi@gmail.com"><img align="left" alt="Git" width="36px" src="https://github.com/z-bj/z-bj/blob/master/img/gmail.png" style="padding-right:10px;" /></a>
+<a href="mailto:zbjarchi@gmail.com"><img align="left" alt="Git" width="40px" src="https://github.com/z-bj/z-bj/blob/master/img/gmail.png" style="padding-right:10px;" /></a>
 
 <!-- LinkedIn -->
 [<img align="left" alt="linkedin" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/zakaria-beji-a20148221/)
@@ -176,9 +176,9 @@
 [<img align="left" alt="telegram" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/telegram-logo-png-telegram-app-icon-png-50-px-1600.png" style="padding-right:10px;" />](https://t.me/air_akaz)
 
 <!-- FreeCodeCamp -->
-[<img align="left" alt="freecodecamp" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/freecodecamp.svg" style="padding-right:10px;" />](https://www.freecodecamp.org/)
-
-<br /><hr />
+<!-- [<img align="left" alt="freecodecamp" width="26px" src="https://github.com/z-bj/z-bj/blob/master/img/freecodecamp.svg" style="padding-right:10px;" />](https://www.freecodecamp.org/)
+ -->
+<br />
 
 
 
