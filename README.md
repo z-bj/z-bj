@@ -163,7 +163,7 @@
 
 
 <!-- ZOOM CALENDLY -->
-<a style="border: 5px solid red; display:block" href="https://calendly.com/zakaria-beji/20min" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-blue.png"></a>
+<a style="border: 5px solid red; display:block" href="https://calendly.com/zakaria-beji/20-minutes-meeting" target="_blank"><img width="auto" alt="meet_link" src="https://github.com/z-bj/z-bj/blob/master/img/zoom-blue.png"></a>
 <br>
 
 <!--  GMAIL  -->
