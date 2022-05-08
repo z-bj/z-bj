@@ -1,5 +1,5 @@
 <!-- UNDER CONSTRUCTION -->
-<!-- ![Cover](https://github.com/z-bj/z-bj/blob/master/img/under-construction.gif) -->
+![Cover](https://github.com/z-bj/z-bj/blob/master/img/under-construction.gif)
 <!-- TITLE -->
 <!-- DIVING txt -->
 
@@ -12,14 +12,29 @@
 <img  alt="iceberg" width="auto" src="https://github.com/z-bj/z-bj/blob/master/img/iceberg-react.jpg" />
 
 
-<!-- ICONE Z -->
-<img style="float: left;" alt="z_icon" width="50" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.png"/>
 
+
+
+
+
+
+
+
+
+
+
+<!-- ICONE Z -->
 
 
 
 ## Ex-Architectural Draftsman from Paris.
+
+<div>
+ <img style="float: left; margin:0" alt="z_icon" width="50" src="https://github.com/z-bj/z-bj/blob/master/img/logo-z-nautilusmonoline.png"/>
 <h4>I use my background to solve any UI or logic issue.<br/> My approach is based on a contextual analysis and detailed design development process.</h4>
+ 
+</div>
+
 
 
 
