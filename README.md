@@ -6,6 +6,13 @@
 
 
 <!-- BACKGROUND -->
-<img src="https://github.com/z-bj/z-bj/blob/master/img/iceberg-react1.jpg" usemap="#image-map">
+<!-- Image Map  -->
+<img src="iceberg-react.png" usemap="#image-map">
 
+<map name="image-map">
+    <area target="_blank" alt="myCalendly" title="myCalendly" href="https://calendly.com/zakaria-beji/20-minutes-meeting" coords="453,2993,746,3103" shape="rect">
+    <area target="_blank" alt="Gmail" title="Gmail" href="mailto:zbjarchi@gmail.com" coords="795,2995,1173,3094" shape="rect">
+    <area target="_blank" alt="Linkedin" title="Linkedin" href="https://www.linkedin.com/in/zakariabeji/" coords="102,5264,264,5325" shape="rect">
+    <area target="_blank" alt="Rhino3D" title="Rhino3D" href="https://www.rhino3d.com/" coords="1229,5135,1335,5243" shape="rect">
+</map>
 
