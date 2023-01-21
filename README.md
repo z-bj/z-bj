@@ -1,8 +1,19 @@
 ![banner](https://github.com/z-bj/z-bj/blob/master/GitHub_profil.webp)
 
-![Visitor Count](https://profile-counter.glitch.me/z-bj/count.svg)
-![](https://komarev.com/ghpvc/?username=z-bj&color=orange)
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/z-bj" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/z-bj" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/zakariabeji/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+
+
+
+
+[![GitHub](https://img.shields.io/badge/-"Recursion"-black?style=for-the-badge&logo=Github)](https://www.linkedin.com/in/zakariabeji/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/zakariabeji/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=storybook&logoColor=orange)](https://zakariabeji.com/)
+[![Dribble](https://img.shields.io/badge/-Dribbble-black?style=for-the-badge&logo=dribbble&logoColor=pink)](https://dribbble.com/bjzak)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/z-bj)
+![Visitor Count](https://profile-counter.glitch.me/z-bj/count.svg)
+
+
