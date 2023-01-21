@@ -1,1 +1,1 @@
-![banner](https://github.com/z-bj/z-bj/blob/master/Gitprofil_raleway.svg)
+![banner](https://github.com/z-bj/z-bj/blob/master/Gitprofil.svg)
