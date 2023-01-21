@@ -1,4 +1,4 @@
-![banner](https://github.com/z-bj/z-bj/blob/master/GitHubprofil.webp)
+![banner](https://github.com/z-bj/z-bj/blob/master/GitHub_Profil.webp)
 
 <!--  -->
 
