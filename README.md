@@ -29,6 +29,6 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=storybook&logoColor=orange)](https://zakariabeji.com/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/zakariabeji/)
 [![Dribble](https://img.shields.io/badge/-Dribbble-black?style=for-the-badge&logo=dribbble&logoColor=pink)](https://dribbble.com/bjzak)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/z-bj)
+
 
 
