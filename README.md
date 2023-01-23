@@ -1,10 +1,5 @@
 ![banner](https://github.com/z-bj/z-bj/blob/master/GitHubProfil.webp)
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=storybook&logoColor=orange)](https://zakariabeji.com/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/zakariabeji/)
-[![Dribble](https://img.shields.io/badge/-Dribbble-black?style=for-the-badge&logo=dribbble&logoColor=pink)](https://dribbble.com/bjzak)
-
-
 
 <p align="center">
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
@@ -33,4 +28,17 @@
 
 
 
+<p align="center">
+<a href="https://zakariabeji.com/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=storybook&logoColor=orange"></a>
+<a href="https://www.linkedin.com/in/zakariabeji/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>
+<a href="https://dribbble.com/bjzak"><img src="https://img.shields.io/badge/-Dribbble-black?style=for-the-badge&logo=dribbble&logoColor=pink"></a>
+</p>
 
+
+
+
+<!-- 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=storybook&logoColor=orange)](https://zakariabeji.com/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/zakariabeji/)
+[![Dribble](https://img.shields.io/badge/-Dribbble-black?style=for-the-badge&logo=dribbble&logoColor=pink)](https://dribbble.com/bjzak)
+ -->
