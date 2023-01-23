@@ -37,6 +37,11 @@
 <a href="https://dribbble.com/bjzak"><img src="https://img.shields.io/badge/-Dribbble-black?style=for-the-badge&logo=dribbble&logoColor=pink"></a>
 </p>
 
+<p align="center">
+<a href=""><img src="https://komarev.com/ghpvc/?username=z-bj&style=flat-square&color=grey&label=PROFILE+VIEWS"></a>
+</p>
+
+ 
 
 
 
