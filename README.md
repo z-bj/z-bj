@@ -1,4 +1,4 @@
-![banner](https://github.com/z-bj/z-bj/blob/master/GitHub_Profile_2023.webp)
+![banner](https://github.com/z-bj/z-bj/blob/master/GitHub_profile_banner.webp)
 
 
 <p align="center">
