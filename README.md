@@ -15,7 +15,7 @@
 
 
 
-## Plan
+## ➢ Plan
 
 
 <a href="https://www.atlassian.com/software/jira" title="JIRA"><img src="https://github.com/get-icon/geticon/raw/master/icons/jira.svg" alt="JIRA" width="21px" height="21px"></a>
@@ -25,7 +25,7 @@
 <a href="https://www.figma.com/" title="Figma"><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="Figma" width="21px" height="21px"></a>
 
 
-## DEV
+## ➢ DEV
 
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
@@ -41,7 +41,7 @@
  
 
  
- ## CI/CD
+ ## ➢ CI/CD
  
 <a href="https://vitejs.dev/" title="Vite"><img src="https://github.com/get-icon/geticon/raw/master/icons/vite.svg" alt="Vite" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
@@ -52,7 +52,7 @@
 
 
 
-## OPS
+## ➢ OPS
 
 <a href="https://www.elastic.co/products/elasticsearch" title="Elasticsearch"><img src="https://github.com/get-icon/geticon/raw/master/icons/elasticsearch.svg" alt="Elasticsearch" width="21px" height="21px"></a>
 <a href="https://grafana.com/" title="Grafana"><img src="https://github.com/get-icon/geticon/raw/master/icons/grafana.svg" alt="Grafana" width="21px" height="21px"></a>
