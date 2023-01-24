@@ -7,9 +7,9 @@
 
 
 
-## Things I code with
+### Things I code with
 
-| **∞** 	| 🧰 	|
+|  	|  **∞**	|
 |:---:	|:---:	|
 | _Ops_ 	| <a href="https://www.elastic.co/products/elasticsearch" title="Elasticsearch"><img src="https://github.com/get-icon/geticon/raw/master/icons/elasticsearch.svg" alt="Elasticsearch" width="21px" height="21px"></a> <a href="https://grafana.com/" title="Grafana"><img src="https://github.com/get-icon/geticon/raw/master/icons/grafana.svg" alt="Grafana" width="21px" height="21px"></a> 	|
 | _Plan_ 	| <a href="https://www.atlassian.com/software/jira" title="JIRA"><img src="https://github.com/get-icon/geticon/raw/master/icons/jira.svg" alt="JIRA" width="21px" height="21px"></a> <a href="https://trello.com/" title="Trello"><img src="https://github.com/get-icon/geticon/raw/master/icons/trello.svg" alt="Trello" width="21px" height="21px"></a> <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a> <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a> <a href="https://www.figma.com/" title="Figma"><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="Figma" width="21px" height="21px"></a> 	|
