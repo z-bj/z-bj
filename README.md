@@ -33,7 +33,7 @@
 
 
 <p align="center">
-<a href="https://z-bj.github.io/coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=storybook&logoColor=orange"></a>
+<a href="https://z-bj.github.io/Coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=storybook&logoColor=orange"></a>
 <a href="https://www.linkedin.com/in/zakariabeji/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>
 <a href="https://dribbble.com/bjzak"><img src="https://img.shields.io/badge/-Dribbble-black?style=for-the-badge&logo=dribbble&logoColor=pink"></a>
 </p>
