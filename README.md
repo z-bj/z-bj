@@ -3,7 +3,9 @@
 
 ## In a nutshell
 
-I'm a <b>French</b> multidisciplinary builder and web developer from  Paris, with background in Architecture, Urban planning and Engineering studies. I love creating fine things with social and/or cultural impact in mind. And, as we all are, I am a lifelong student of life and the craft. 
+I'm a <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>French</b> multidisciplinary builder and web developer from  Paris, with background in Architecture,<br>
+Urban planning and Engineering studies. I love creating fine things with social and/or cultural impact in mind.<br>
+And, as we all are, I am a lifelong student of life and the craft. 
 
 
 ⤷ React JS since 2020. User-centered, and very attracted by Creative UI, Clean code, and DevOps.<br>
@@ -11,15 +13,12 @@ Trained as an architect, I used to draw the city. Now, I build your place in the
 
 
 ### Now
-ϟ I'm focused on building a disruptive portfolio.<br><br>
-
-Whatever challenge your organization might face,<br>
-you don’t have to solve it alone.<br>
-Let’s talk about the app that<br>
-can’t wait and get started.<br><br>
+ϟ At the moment, I am focused on building user-centered and disruptive Portfolio.<br>
 
 
-> Icons are links.
+⤷ Whatever challenge your organization might face,<br>
+you don’t have to solve it alone. Let’s talk about<br>
+the app that can’t wait and get started.<br><br>
 
 
  | _Dev_ 	| <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a> <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="21px" height="21px"></a> <a href="https://storybook.js.org/" title="StoryBook"><img src="https://github.com/get-icon/geticon/raw/master/icons/storybook-icon.svg" alt="storybook" width="21px" height="21px"></a> <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a> <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a> <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a> <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a> <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a> <a href="https://d3js.org/" title="D3.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/d3.svg" alt="D3.js" width="21px" height="21px"></a> 	|
