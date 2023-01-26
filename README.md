@@ -20,9 +20,9 @@ Trained as an architect, I used to draw the city. Now, I build your place in the
  
 
 
-⤷ Whatever challenge your organization might face,<br>
+⤷ *Whatever challenge your organization might face,<br>
 you don’t have to solve it alone. Let’s talk about<br>
-the app that can’t wait and **get started**.<br>
+the app that can’t wait and **get started**.*<br>
 
 
 
