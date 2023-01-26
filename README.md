@@ -3,17 +3,17 @@
 
 ## In a nutshell
 
-I'm a  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>French</b> multidisciplinary builder and web developer from  Paris, with background in Architecture,<br>
-Urban planning and Engineering studies. I love creating fine things with social and/or cultural impact in mind.<br>
+I'm a  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer from Paris, with background in **Architecture**,<br>
+Urban planning and **Engineering** studies. I love creating fine things with social and/or cultural impact in mind.<br>
 And, as we all are, I am a lifelong student of life and the craft. 
 
 
-⤷ React JS since 2020. User-centered, and very attracted by Creative UI, Clean code, and DevOps.<br>
+⤷ **React** JS since 2020. User-centered, and very attracted by Creative UI, Clean code, and DevOps.<br>
 Trained as an architect, I used to draw the city. Now, I build your place in the cloud! ☁
 
 
 ### Now
-ϟ At the moment, I am focused on building user-centered and disruptive Portfolio.<br>
+ϟ At the moment, I am focused on building a disruptive Portfolio.<br>
 
 
 ⤷ Whatever challenge your organization might face,<br>
