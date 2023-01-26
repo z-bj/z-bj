@@ -10,9 +10,8 @@ Hi, I am Zak, a multidisciplinary builder and web developer from  <b>Paris, Fran
 Trained as an architect, I used to draw the city. Now, I build your place in the cloud! ☁
 
 
-<br>
-
-ϟ Currently Working on my Portfolio, and learning AWS.
+### Now
+At the moment, I'm focused on building a disruptive portfolio.<br>Open to remote job offers.
 
 <br>
 
@@ -28,9 +27,8 @@ Trained as an architect, I used to draw the city. Now, I build your place in the
 
 <br>
 
-
-<a href="https://z-bj.github.io/Coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=storybook&logoColor=orange"></a>
 <a href="https://www.linkedin.com/in/zakariabeji/"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>
+<a href="https://z-bj.github.io/Coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=storybook&logoColor=orange"></a>
 <a href="https://dribbble.com/bjzak"><img src="https://img.shields.io/badge/-Dribbble-white?style=for-the-badge&logo=dribbble&logoColor=pink"></a>
 
  
