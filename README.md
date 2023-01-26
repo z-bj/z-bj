@@ -18,7 +18,7 @@ Trained as an architect, I used to draw the city. Now, I build your place in the
 
 ⤷ Whatever challenge your organization might face,<br>
 you don’t have to solve it alone. Let’s talk about<br>
-the app that can’t wait and get started.<br><br>
+the app that can’t wait and **get started**.<br><br>
 
 
  | _Dev_ 	| <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a> <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="21px" height="21px"></a> <a href="https://storybook.js.org/" title="StoryBook"><img src="https://github.com/get-icon/geticon/raw/master/icons/storybook-icon.svg" alt="storybook" width="21px" height="21px"></a> <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a> <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a> <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a> <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a> <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a> <a href="https://d3js.org/" title="D3.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/d3.svg" alt="D3.js" width="21px" height="21px"></a> 	|
@@ -31,7 +31,7 @@ the app that can’t wait and get started.<br><br>
 
 <br>
 
-⤷ Remote position only
+⤷ **Remote** position only
 
 <a href="https://www.linkedin.com/in/zakariabeji/"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>
 <a href="https://z-bj.github.io/Coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=storybook&logoColor=orange"></a>
