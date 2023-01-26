@@ -3,7 +3,7 @@
 
 ## In a nutshell
 
-I'm a multidisciplinary builder and web developer from  <b>Paris, France</b> with background in Urban strategy, strategic design and engineering studies. I love creating fine things with social and/or cultural impact in mind. And, as we all are, I am a lifelong student of life and the craft. 
+I'm a <b>French</b> multidisciplinary builder and web developer from  Paris, with background in urban planning, strategic design and engineering studies. I love creating fine things with social and/or cultural impact in mind. And, as we all are, I am a lifelong student of life and the craft. 
 
 
 ⤷ React JS since 2020. User-centered, and very attracted by Creative UI, Clean code, and DevOps.<br>
