@@ -6,7 +6,7 @@
 Hi, I am Zak, a multidisciplinary builder and web developer from  <b>Paris, France</b> with background in Urban strategy, strategic design and engineering studies. I love creating fine things with social and/or cultural impact in mind. And, as we all are, I am a lifelong student of life and the craft. 
 
 
-⤷ React JS since 2020. user-centered, and very attracted by Creative UI, Clean code, and DevOps.<br>
+⤷ React JS since 2020. User-centered, and very attracted by Creative UI, Clean code, and DevOps.<br>
 Trained as an architect, I used to draw the city. Now, I build your place in the cloud! ☁
 
 
