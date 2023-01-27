@@ -1,4 +1,4 @@
-![banner](https://github.com/z-bj/z-bj/blob/master/GitHub_profile_banner.webp)(https://zakariabeji.com)
+![banner](https://github.com/z-bj/z-bj/blob/master/GitHub_profile_banner.webp)
 
 
 ## In a nutshell
