@@ -3,7 +3,7 @@
 
 ## In a nutshell
 
-I'm a  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer from Paris, with a background in **Architecture**,<br>
+I'm a  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer, with a background in **Architecture**,<br>
 Urban planning and **Engineering**. I love creating fine things with social and/or cultural impact in mind.<br>
 And, as we all are, I am a lifelong student of life and the craft. 
 
