@@ -1,9 +1,8 @@
 ![banner](https://github.com/z-bj/z-bj/blob/master/GitHub_profile_banner.webp)
 
 
-## In a nutshell
-
-I'm a  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer, with a background in **Architecture**,<br>
+# # Whoami
+In a nut**shell**,<br>I'm a  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer, with a background in **Architecture**,<br>
 Urban planning and **Engineering**. I love creating fine things with social and/or cultural impact in mind.<br>
 
 
