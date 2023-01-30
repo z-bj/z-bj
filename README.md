@@ -1,4 +1,4 @@
-![banner](https://github.com/z-bj/z-bj/blob/master/MOSHED-Github_profile.banner.webm)
+![banner](https://github.com/z-bj/z-bj/blob/master/Banner_github_zbj.gif)
 
 
 ## $ Whoami
