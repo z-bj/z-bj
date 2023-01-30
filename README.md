@@ -1,4 +1,4 @@
-![banner](https://github.com/z-bj/z-bj/blob/master/Banner_github_zbj.gif)
+![banner](https://github.com/z-bj/z-bj/blob/master/banner-z-bj.gif)
 
 
 ## $ Whoami
