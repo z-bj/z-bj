@@ -1,7 +1,7 @@
 ![banner](https://github.com/z-bj/z-bj/blob/master/Banner_Github_z-bj.gif)
 
 
-## ＄Whoami
+# ＄Whoami
 
 ### In a nut*shell*<br>
 A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer, with a background in **Architecture**,<br>
