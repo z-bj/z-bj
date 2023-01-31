@@ -1,20 +1,21 @@
 ![banner](https://github.com/z-bj/z-bj/blob/master/Banner_Github_z-bj.gif)
 
 
-## $ Whoami
+## ＄Whoami
 
 ### In a nut*shell*<br>
-I'm a  <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer, with a background in **Architecture**,<br>
+A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer, with a background in **Architecture**,<br>
 Urban planning and **Engineering**. I love creating fine things with social and/or cultural impact in mind.<br>
 
 
 
 ⤷ **React** JS since 2020. User-centered and very attracted by Creative UI, Clean code, and DevOps.<br>
-Trained as an architect, I used to draw the city. Now, I build your place in the cloud! ☁
+Trained as an architect, I used to draw the city.<br>
+Now, I build your place in the cloud! ☁
 
 
 ### Now
-ϟ At the moment, I am focused on building a disruptive **[portfolio](https://zakariabeji.com)**.<br>
+ϟ Focused on building a disruptive **[portfolio](https://zakariabeji.com)**.<br>
 
 
 
