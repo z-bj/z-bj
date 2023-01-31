@@ -10,8 +10,8 @@ Urban planning and **Engineering**. I love creating fine things with social and/
 
 
 ⤷ **React** JS since 2020. User-centered and very attracted by Creative UI, Clean code, and DevOps.<br>
-Trained as an architect, I used to draw the city.<br>
-Now, I build your place in the cloud! ☁
+Trained as an architect, I used to draw the city. Now, I build your place<br>in the **cloud**!<br>
+☁
 
 
 ### Now
