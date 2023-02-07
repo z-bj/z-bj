@@ -36,6 +36,6 @@ the app that can’t wait and **get started**.*<br>
 ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
 
 
-<a href="https://www.linkedin.com/in/zakariabeji/"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>
-<a href="https://z-bj.github.io/Coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=storybook&logoColor=orange"></a>
-<a href="https://www.behance.net/z-bj"><img src="https://img.shields.io/badge/-Behance-white?style=for-the-badge&logo=behance&logoColor=blue"></a>
+<a href="https://www.linkedin.com/in/zakariabeji/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>
+<a href="https://z-bj.github.io/Coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=storybook&logoColor=orange"></a>
+<a href="https://www.behance.net/z-bj"><img src="https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=behance&logoColor=blue"></a>
