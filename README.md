@@ -1,4 +1,4 @@
-![banner](https://github.com/z-bj/z-bj/blob/master/front-end_ops-optimize.gif)
+![banner](https://github.com/z-bj/z-bj/blob/master/Font-end_ops_developer_optimized.gif)
 
 
 # ＄Whoami
