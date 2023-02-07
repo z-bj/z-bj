@@ -33,7 +33,7 @@ the app that can’t wait and **get started**.*<br>
 
 
 
-![banner](https://github.com/z-bj/z-bj/blob/master/our-offices-compressed.gif)
+![banner]()
 
 
 <a href="https://www.linkedin.com/in/zakariabeji/"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>
