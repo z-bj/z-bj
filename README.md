@@ -45,4 +45,6 @@ the app that can’t wait and **get started**.*<br>
 
 -->
 
-<img src="https://github.com/z-bj/z-bj/blob/master/githubparrot.gif" width="36">
+
+
+<img src="https://github.com/z-bj/z-bj/blob/master/githubparrot.gif" style="text-align: right;" width="36">
