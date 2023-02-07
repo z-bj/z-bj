@@ -47,4 +47,4 @@ the app that can’t wait and **get started**.*<br>
 
 
 
-![banner](https://github.com/z-bj/z-bj/blob/master/our-offices.gif)
+![banner](https://github.com/z-bj/z-bj/blob/master/our-offices-compressed.gif)
