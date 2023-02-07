@@ -17,8 +17,6 @@ Trained as an architect, I used to draw the city. Now, I build your place<br>in 
 ### Now
 ϟ Focused on building a disruptive **[portfolio](https://zakariabeji.com)**.<br>
 
-
-
 ⤷ *Whatever challenge your organization might face,<br>
 you don’t have to solve it alone. Let’s talk about<br>
 the app that can’t wait and **get started**.*<br>
@@ -32,19 +30,12 @@ the app that can’t wait and **get started**.*<br>
 | <a href="https://www.atlassian.com/software/jira" title="JIRA"><img src="https://github.com/get-icon/geticon/raw/master/icons/jira.svg" alt="JIRA" width="21px" height="21px"></a> <a href="https://trello.com/" title="Trello"><img src="https://github.com/get-icon/geticon/raw/master/icons/trello.svg" alt="Trello" width="21px" height="21px"></a> <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a> <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a> <a href="https://www.figma.com/" title="Figma"><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="Figma" width="21px" height="21px"></a> | _PLAN_	|
 | <a href="https://www.elastic.co/products/elasticsearch" title="Elasticsearch"><img src="https://github.com/get-icon/geticon/raw/master/icons/elasticsearch.svg" alt="Elasticsearch" width="21px" height="21px"></a> <a href="https://grafana.com/" title="Grafana"><img src="https://github.com/get-icon/geticon/raw/master/icons/grafana.svg" alt="Grafana" width="21px" height="21px"></a>	|  _OPS_	|
 |  <a aligh="left" href="https://www.linkedin.com/in/zakariabeji/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="25" /></a> | [![Dm me](https://github.com/z-bj/z-bj/blob/master/Dm_me.svg)](https://www.linkedin.com/in/zakariabeji/)| 
- 
-
-<br>
-<!-- <a href="https://www.linkedin.com/in/zakariabeji/"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=Linkedin&logoColor=blue"></a> -->
-
-<!-- <a href="https://tailwindcss.com//" title="Tailwind"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind" width="21px" height="21px"></a>
- 
-
-<a href="https://z-bj.github.io/Coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=storybook&logoColor=orange"></a>
-<a href="https://dribbble.com/bjzak"><img src="https://img.shields.io/badge/-Dribbble-white?style=for-the-badge&logo=dribbble&logoColor=pink"></a>
-
--->
 
 
 
 ![banner](https://github.com/z-bj/z-bj/blob/master/our-offices-compressed.gif)
+
+
+<a href="https://www.linkedin.com/in/zakariabeji/"><img src="https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>
+<a href="https://z-bj.github.io/Coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=storybook&logoColor=orange"></a>
+<a href="https://www.behance.net/z-bj"><img src="https://img.shields.io/badge/-Behance-white?style=for-the-badge&logo=behance&logoColor=blue"></a>
