@@ -4,18 +4,17 @@
 # ＄Whoami
 
 ### In a nut*shell*<br>
-A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer, with a background in **Architecture**,<br>
-Urban planning and **Engineering**. I love creating fine things with social and/or cultural impact in mind.<br>
+A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer, with a background in **Architecture**,<br>and **Engineering**. I love crafting fine things with social and cultural impact in mind.
 
 
-
-⤷ **React** JS since 2020. User-centered and very attracted by Creative UI, Clean archi, and DevOps.<br>
-Trained as an architect, I used to draw the city. Now, I build your place<br>in the **cloud**!<br>
+⤷ **React** JS since 2020. User-centered and very attracted by Creative UI,<br>Clean archi, and DevOps.
+Trained as an architect,<br>I used to draw the city. Now, I build your place<br>in the **cloud**!<br>
 ☁
 
 
 ### Now
-ϟ Focused on building a disruptive **[portfolio](https://zakariabeji.com)**.<br>
+ϟ Focused on building a disruptive **[portfolio](https://zakariabeji.com)** that<br>showcases my skills
+and experience.<br>
 
 ⤷ *Whatever challenge your organization might face,<br>
 you don’t have to solve it alone. Let’s talk about<br>
