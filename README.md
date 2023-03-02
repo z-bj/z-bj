@@ -42,8 +42,13 @@ the app that can’t wait and **get started**.*<br>
 <details>
  
 <summary> 𝙃𝙞𝙧𝙞𝙣𝙜 𝙍𝙚𝙢𝙤𝙩𝙚𝙡𝙮? 𝙄 𝙝𝙖𝙫𝙚 𝙖 𝙜𝙤𝙤𝙙 𝙣𝙚𝙬𝙨 𝙛𝙤𝙧 𝙮𝙤𝙪. </summary>
+ 
+  ### ㅤㅤㅤ
+ 
+ ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
+ ㅤ
 
- ## Am I the right partner for you?
+ ## But, am I the right partner for you?
 
  <table>
     <thead>
@@ -77,8 +82,7 @@ the app that can’t wait and **get started**.*<br>
 </table>
 
  
-If you’re still with me, then I’d love to hear from you and learn more about<br>what you’re working on. Drop me a line at hello@zakariabeji.com.<br>The more details about your project you include in your message,<br>the faster I willget back to you.You’ll hear back from me within 2–4 business days.<br>I look forward to hearing from you. 
+If you’re still with me, then I’d love to hear from you and learn more about<br>what you’re working on. Drop me a line at hello@zakariabeji.com. <br>The more details about your project you include in your message,<br>the faster I willget back to you. You’ll hear back from me within 2–4 business days.<br> I look forward to hearing from you. ツ
  
-  ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
  
 </details>
