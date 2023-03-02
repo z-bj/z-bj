@@ -84,7 +84,4 @@ the app that can’t wait and **get started**.*<br>
  
 If you’re still with me, then I’d love to hear from you and learn more about<br>what you’re working on. Drop me a line at hello@zakariabeji.com. <br>The more details about your project you include in your message,<br> the faster I willget back to you. You’ll hear back from me within 2–4 business days.<br> I look forward to hearing from you. ツ
  
- [cv/resume](https://github.com/z-bj/z-bj/blob/master/Zakaria_Beji.pdf)
- 
- 
 </details>
