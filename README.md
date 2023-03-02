@@ -13,8 +13,7 @@ Trained as an architect,<br>I used to draw the city. Now, I build your place<br>
 
 
 ### Now
-ϟ Focused on building a disruptive **[portfolio](https://zakariabeji.com)** that<br>showcases my skills
-and experience.<br>
+ϟ Focused on building a disruptive **[portfolio](https://zakariabeji.com)**...<br>
 
 ⤷ *Whatever challenge your organization might face,<br>
 you don’t have to solve it alone. Let’s talk about<br>
@@ -42,7 +41,7 @@ the app that can’t wait and **get started**.*<br>
 <details>
 <summary>CV/Resume</summary>
 
-![Zakaria_Beji](https://github.com/z-bj/z-bj/blob/master/Zakaria_Beji.pdf)
+[Zakaria_Beji](https://github.com/z-bj/z-bj/blob/master/Zakaria_Beji.pdf)
 
 </details>
 
