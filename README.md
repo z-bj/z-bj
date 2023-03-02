@@ -20,6 +20,13 @@ and experience.<br>
 you don’t have to solve it alone. Let’s talk about<br>
 the app that can’t wait and **get started**.*<br>
 
+<details>
+<summary>CV/Resume</summary>
+
+![Resume](https://github.com/z-bj/z-bj/blob/master/Zakaria_Beji.pdf)
+
+</details>
+
 
 ### Skills
 
