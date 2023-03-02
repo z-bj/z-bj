@@ -41,7 +41,7 @@ the app that can’t wait and **get started**.*<br>
 <details>
 <summary>CV/Resume</summary>
 
-[Zakaria_Beji](https://github.com/z-bj/z-bj/blob/master/Zakaria_Beji.pdf)
+![Zakaria_Beji](https://github.com/z-bj/z-bj/blob/master/Zakaria_beji.jpg)
 
 </details>
 
