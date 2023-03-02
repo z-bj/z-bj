@@ -43,11 +43,41 @@ the app that can’t wait and **get started**.*<br>
  
 <summary> 𝙃𝙞𝙧𝙞𝙣𝙜 𝙍𝙚𝙢𝙤𝙩𝙚𝙡𝙮? 𝙄 𝙝𝙖𝙫𝙚 𝙖 𝙜𝙤𝙤𝙙 𝙣𝙚𝙬𝙨 𝙛𝙤𝙧 𝙮𝙤𝙪. </summary>
  
-<!--  ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif) -->
+ ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
  
-<img src="https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif" alt="HTML tutorial" style="width:1200px;height:auto;">
 
-![Zakaria_Beji](https://github.com/z-bj/z-bj/blob/master/zakaria_beji.jpg)
+
+ <table>
+    <thead>
+        <tr>
+            <th>Let's work together if...</th>
+            <th>Let's not work together if...</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>🚀 You want a working product.</td>
+            <td>You to buy days and hours.</td>
+        </tr>
+        <tr>
+            <td>🤝 You’re looking for a partner.</td>
+            <td>You’re looking for a supplier.</td>
+        </tr>
+        <tr>
+            <td>📈 You want to build on data.</td>
+            <td>You want to build on a guess.</td>
+        </tr>
+        <tr>
+            <td>🏆 You want to be the best.</td>
+            <td>You’re ok with mediocre results.</td>
+        </tr>
+        <tr>
+            <td>💪 You know it takes hard work.</td>
+            <td>You’re not fully invested.</td>
+        </tr>
+    </tbody>
+</table>
+
  
-🤙
+If you’re still with me, then I’d love to hear from you and learn more about<br>what you’re working on. Drop me a line at hello@zakariabeji.com.<br>The more details about your project you include in your message,<br>the faster I willget back to you.You’ll hear back from me within 2–4 business days.<br>I look forward to hearing from you. 
 </details>
