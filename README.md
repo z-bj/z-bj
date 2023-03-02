@@ -20,13 +20,6 @@ and experience.<br>
 you don’t have to solve it alone. Let’s talk about<br>
 the app that can’t wait and **get started**.*<br>
 
-<details>
-<summary>CV/Resume</summary>
-
-![Zakaria_Beji](https://github.com/z-bj/z-bj/blob/master/Zakaria_Beji.pdf)
-
-</details>
-
 
 ### Skills
 
@@ -46,6 +39,14 @@ the app that can’t wait and **get started**.*<br>
 <a href="https://z-bj.github.io/Coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=storybook&logoColor=orange"></a>
 <a href="https://www.behance.net/z-bj"><img src="https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=behance&logoColor=blue"></a>
 <a href="https://dev.to/z_bj/how-to-google-it-like-a-senior-software-engineer-1fhj"><img src="https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<details>
+<summary>CV/Resume</summary>
+
+![Zakaria_Beji](https://github.com/z-bj/z-bj/blob/master/Zakaria_Beji.pdf)
+
+</details>
+
+
 
 <p dir="rtl">
 أهلا وسهلاً
