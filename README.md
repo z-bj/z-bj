@@ -31,16 +31,21 @@ the app that can’t wait and **get started**.*<br>
 
 
 
-![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
+
 
 
 <a href="https://www.linkedin.com/in/zakariabeji/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>
 <a href="https://z-bj.github.io/Coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=storybook&logoColor=orange"></a>
 <a href="https://www.behance.net/z-bj"><img src="https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=behance&logoColor=blue"></a>
 <a href="https://dev.to/z_bj/how-to-google-it-like-a-senior-software-engineer-1fhj"><img src="https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+
 <details>
-<summary>CV/Resume</summary>
+ 
+<summary>	𝙃𝙞𝙧𝙞𝙣𝙜 𝙍𝙚𝙢𝙤𝙩𝙚𝙡𝙮? 𝙄 𝙝𝙖𝙫𝙚 𝙖 𝙜𝙤𝙤𝙙 𝙣𝙚𝙬𝙨 𝙛𝙤𝙧 𝙮𝙤𝙪.</summary>
+ 
+ ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
 
 ![Zakaria_Beji](https://github.com/z-bj/z-bj/blob/master/zakaria_beji.jpg)
+ 
 
 </details>
