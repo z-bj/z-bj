@@ -29,12 +29,9 @@ the app that can’t wait and **get started**.*<br>
 | <a href="https://www.elastic.co/products/elasticsearch" title="Elasticsearch"><img src="https://github.com/get-icon/geticon/raw/master/icons/elasticsearch.svg" alt="Elasticsearch" width="21px" height="21px"></a> <a href="https://grafana.com/" title="Grafana"><img src="https://github.com/get-icon/geticon/raw/master/icons/grafana.svg" alt="Grafana" width="21px" height="21px"></a>	|  _OPS_	|
 |  <a aligh="left" href="https://www.linkedin.com/in/zakariabeji/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="25" /></a> | [![Dm me](https://github.com/z-bj/z-bj/blob/master/Dm_me.svg)](https://www.linkedin.com/in/zakariabeji/)| 
 
-
-### Hiring Remotely?<br>Great news awaits — Flip the card!
-
 <details>
  
-<summary><h3>🃏</h3></summary>
+<summary><h3>Hiring Remotely?<br>Great news awaits — Flip the card! 🃏</h3></summary>
  
  ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
  ㅤ
