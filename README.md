@@ -30,9 +30,9 @@ the app that can’t wait and **get started**.*<br>
 |  <a aligh="left" href="https://www.linkedin.com/in/zakariabeji/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="25" /></a> | [![Dm me](https://github.com/z-bj/z-bj/blob/master/Dm_me.svg)](https://www.linkedin.com/in/zakariabeji/)| 
 
 ### Hiring Remotely?
-
+𝙶𝚛𝚎𝚊𝚝 𝚗𝚎𝚠𝚜 𝚊𝚠𝚊𝚒𝚝𝚜 — 𝙵𝚕𝚒𝚙 𝚝𝚑𝚎 𝚌𝚊𝚛𝚍!
 <details>
-<summary>𝙶𝚛𝚎𝚊𝚝 𝚗𝚎𝚠𝚜 𝚊𝚠𝚊𝚒𝚝𝚜 — 𝙵𝚕𝚒𝚙 𝚝𝚑𝚎 𝚌𝚊𝚛𝚍! 🃏</summary>
+<summary><h1>🃏<h1/></summary>
  
  <br>
  
