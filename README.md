@@ -29,24 +29,11 @@ the app that can’t wait and **get started**.*<br>
 | <a href="https://www.elastic.co/products/elasticsearch" title="Elasticsearch"><img src="https://github.com/get-icon/geticon/raw/master/icons/elasticsearch.svg" alt="Elasticsearch" width="21px" height="21px"></a> <a href="https://grafana.com/" title="Grafana"><img src="https://github.com/get-icon/geticon/raw/master/icons/grafana.svg" alt="Grafana" width="21px" height="21px"></a>	|  _OPS_	|
 |  <a aligh="left" href="https://www.linkedin.com/in/zakariabeji/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="25" /></a> | [![Dm me](https://github.com/z-bj/z-bj/blob/master/Dm_me.svg)](https://www.linkedin.com/in/zakariabeji/)| 
 
-
-
-
-
-
-<a href="https://www.linkedin.com/in/zakariabeji/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>
-<a href="https://z-bj.github.io/Coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=storybook&logoColor=orange"></a>
-<a href="https://www.behance.net/z-bj"><img src="https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=behance&logoColor=blue"></a>
-<a href="https://dev.to/z_bj/how-to-google-it-like-a-senior-software-engineer-1fhj"><img src="https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-
- 
-### ㅤㅤㅤ
-
-
+<h3> Hiring Remotely? Great news awaits - flip the card!</h3> 
 
 <details>
  
-<summary> <h2> Hiring Remotely? I have a good news.</h2></summary>
+<summary><h1>🃏</h1></summary>
  
  ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
  ㅤ
@@ -88,3 +75,8 @@ the app that can’t wait and **get started**.*<br>
 If you’re still with me, then I’d love to hear from you and learn more about<br>what you’re working on. Drop me a line at hello@zakariabeji.com. <br><br>The more details about your project you include in your message,<br> the faster I willget back to you. You’ll hear back from me within 2–4 business days.<br> I look forward to hearing from you. ツ
  
 </details>
+
+<a href="https://www.linkedin.com/in/zakariabeji/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin&logoColor=blue"></a>
+<a href="https://z-bj.github.io/Coming_soon/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=storybook&logoColor=orange"></a>
+<a href="https://www.behance.net/z-bj"><img src="https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=behance&logoColor=blue"></a>
+<a href="https://dev.to/z_bj/how-to-google-it-like-a-senior-software-engineer-1fhj"><img src="https://img.shields.io/badge/-dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white"></a>
