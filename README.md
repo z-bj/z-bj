@@ -32,13 +32,16 @@ the app that can’t wait and **get started**.*<br>
 ### Hiring Remotely?
 
 <details>
-<summary>𝙶𝚛𝚎𝚊𝚝 𝚗𝚎𝚠𝚜 𝚊𝚠𝚊𝚒𝚝𝚜 — 𝙵𝚕𝚒𝚙 𝚝𝚑𝚎 𝚌𝚊𝚛𝚍! 🃏
-</summary>
+<summary>𝙶𝚛𝚎𝚊𝚝 𝚗𝚎𝚠𝚜 𝚊𝚠𝚊𝚒𝚝𝚜 — 𝙵𝚕𝚒𝚙 𝚝𝚑𝚎 𝚌𝚊𝚛𝚍! 🃏</summary>
+ 
+ <br>
  
  ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
  ㅤ
  
- # But, am I the right partner for you?
+ ### But, am I the right partner for you?
+ 
+ 
  <table>
     <thead>
         <tr>
