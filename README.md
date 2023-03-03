@@ -30,11 +30,11 @@ the app that can’t wait and **get started**.*<br>
 |  <a aligh="left" href="https://www.linkedin.com/in/zakariabeji/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="25" /></a> | [![Dm me](https://github.com/z-bj/z-bj/blob/master/Dm_me.svg)](https://www.linkedin.com/in/zakariabeji/)| 
 
 
-### Hiring Remotely? Great news awaits — Flip the card!
+### Hiring Remotely?<br>Great news awaits — Flip the card!
 
 <details>
  
-<summary>🃏</summary>
+<summary><h3>🃏</h3></summary>
  
  ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
  ㅤ
