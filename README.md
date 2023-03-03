@@ -34,8 +34,6 @@ the app that can’t wait and **get started**.*<br>
 <details>
 <summary><h1>🃏<h1/></summary>
  
- <br>
- 
  ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
  ㅤ
  
