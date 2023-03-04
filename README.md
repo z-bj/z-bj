@@ -15,10 +15,6 @@ Trained as an architect,<br>I used to draw the city. Now, I build your place<br>
 ### Now
 ϟ Focused on building a disruptive **[portfolio](https://zakariabeji.com)**...<br>
 
-⤷ *Whatever challenge your organization might face,<br>
-you don’t have to solve it alone. Let’s talk about<br>
-the app that can’t wait and **get started**.*<br>
-
 
 ### Skills
 
@@ -74,6 +70,10 @@ the app that can’t wait and **get started**.*<br>
 <br>
  
 If you’re still with me, then I’d love to hear from you and learn more about<br>what you’re working on. Drop me a line at hello@zakariabeji.com. <br><br>The more details about your project you include in your message,<br> the faster I willget back to you. You’ll hear back from me within 2–4 business days.<br> I look forward to hearing from you. ツ
+ 
+ ⤷ *Whatever challenge your organization might face,<br>
+you don’t have to solve it alone. Let’s talk about<br>
+the app that can’t wait and **get started**.*<br>
  
 </details>
 
