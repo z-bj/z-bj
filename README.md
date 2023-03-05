@@ -5,7 +5,7 @@
 
 ### In a nut*shell*<br>
 A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer, with a background in **Architecture**,<br>and **Engineering**. I love crafting fine things with social and cultural impact in mind.
-<br>I also share my thoughts and learnings on [**DEV.to**](https://dev.to/z_bj).
+<br>I don't just write code but I also share my thoughts and learnings on [**DEV.to**](https://dev.to/z_bj).
 
 
 ⤷ **React** JS since 2020. User-centered and very attracted by Creative UI,<br>Clean archi, and DevOps.
