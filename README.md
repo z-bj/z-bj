@@ -8,7 +8,7 @@ A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> 
 
 
 ⤷ **React** JS since 2020. **User-centered** and very attracted by<br>**Creative UI**, and **DevOps**.
-Trained as an<br>architect, I used to draw the city. Now, I build<br>your place in the cloud!<br>
+Trained as an architect,<br>I used to draw the city. Now, I build<br>your place in the cloud!<br>
 ☁
 
 
