@@ -12,10 +12,6 @@ Trained as an<br>architect, I used to draw the city. Now, I build<br>your place 
 ☁
 
 
-### Now
-ϟ Focused on building a disruptive **[portfolio](https://zakariabeji.com)**...<br>
-
-
 ### Skills
 
  | <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px"></a> <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a> <a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="21px" height="21px"></a> <a href="https://storybook.js.org/" title="StoryBook"><img src="https://github.com/get-icon/geticon/raw/master/icons/storybook-icon.svg" alt="storybook" width="21px" height="21px"></a> <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a> <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a> <a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a> <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a> <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a> <a href="https://d3js.org/" title="D3.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/d3.svg" alt="D3.js" width="21px" height="21px"></a>	| _DEV_	|
@@ -24,6 +20,7 @@ Trained as an<br>architect, I used to draw the city. Now, I build<br>your place 
 | <a href="https://www.atlassian.com/software/jira" title="JIRA"><img src="https://github.com/get-icon/geticon/raw/master/icons/jira.svg" alt="JIRA" width="21px" height="21px"></a> <a href="https://trello.com/" title="Trello"><img src="https://github.com/get-icon/geticon/raw/master/icons/trello.svg" alt="Trello" width="21px" height="21px"></a> <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg" alt="Adobe Photoshop" width="21px" height="21px"></a> <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a> <a href="https://www.figma.com/" title="Figma"><img src="https://github.com/get-icon/geticon/raw/master/icons/figma.svg" alt="Figma" width="21px" height="21px"></a> | _PLAN_	|
 | <a href="https://www.elastic.co/products/elasticsearch" title="Elasticsearch"><img src="https://github.com/get-icon/geticon/raw/master/icons/elasticsearch.svg" alt="Elasticsearch" width="21px" height="21px"></a> <a href="https://grafana.com/" title="Grafana"><img src="https://github.com/get-icon/geticon/raw/master/icons/grafana.svg" alt="Grafana" width="21px" height="21px"></a>	|  _OPS_	|
 |  <a aligh="left" href="https://www.linkedin.com/in/zakariabeji/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="25" /></a> | [![Dm me](https://github.com/z-bj/z-bj/blob/master/Dm_me.svg)](https://www.linkedin.com/in/zakariabeji/)| 
+
 
 ### Hiring Remotely?
 𝙶𝚛𝚎𝚊𝚝 𝚗𝚎𝚠𝚜 𝚊𝚠𝚊𝚒𝚝𝚜 — 𝙵𝚕𝚒𝚙 𝚝𝚑𝚎 𝚌𝚊𝚛𝚍!
@@ -69,7 +66,7 @@ Trained as an<br>architect, I used to draw the city. Now, I build<br>your place 
  
 <br>
  
-If you’re still with me, then I’d love to hear from you and learn more about<br>what you’re working on. Drop me a line at hello@zakariabeji.com. <br><br>The more details about your project you include in your message,<br> the faster I willget back to you. You’ll hear back from me within 2–4 business days.
+If you’re still with me, then I’d love to hear from you and learn more<br>about what you’re working on. Drop me a line at<br>hello@zakariabeji.com. <br><br>The more details about your project you include in your message,<br> the faster I willget back to you. You’ll hear back from me within<br>2–4 business days.
  
  ⤷ Whatever challenge your organization might face,<br>
 you don’t have to solve it alone. Let’s talk about<br>
