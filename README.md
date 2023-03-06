@@ -4,8 +4,7 @@
 # ＄Whoami
 
 ### In a nut*shell*<br>
-A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer, with a background in **Architecture**,<br>and **Engineering**. I love crafting fine things with social and cultural impact in mind.
-<br>I don't just write code but I also share my thoughts and learnings on [**DEV.to**](https://dev.to/z_bj).
+A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> **French** multidisciplinary builder and web developer, with a background in **Architecture**,<br>and **Engineering**. I specialize in writing scalable (testable, flexible, maintainable) application and also enjoy sharing my insights and experiences on [**DEV.to**](https://dev.to/z_bj).. Whether I'm diving into a new programming language or exploring the latest industry trends, I always strive to learn and grow as a developer.
 
 
 ⤷ **React** JS since 2020. User-centered and very attracted by Creative UI,<br>Clean archi, and DevOps.
