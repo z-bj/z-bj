@@ -4,10 +4,10 @@
 # ＄Whoami
 
 ### In a nut*shell*<br>
-A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> French **versatile** builder and web developer, with a background in **Architecture**,<br>and **Engineering**. I specialize in writing **scalable** (testable, flexible, maintainable)<br>application and also enjoy **sharing** my insights and experiences on [**DEV.to**](https://dev.to/z_bj)..
 
+A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> French **Versatile Builder** and **Software Developer**, Mostly Frontend with a **DevOps** mindset.
 
-⤷ **React** JS since 2020. **User-centered** and very attracted by<br>**Creative UI**, and **DevOps**.
+⤷ **React** since 2020. **User-centered** and very attracted by<br>Creative UI, **UX**, and Product Design.
 Trained as an architect,<br>I used to draw the city. Now, I build<br>your place in the cloud!<br>
 ☁
 
@@ -68,9 +68,9 @@ Trained as an architect,<br>I used to draw the city. Now, I build<br>your place 
  
 If you’re still with me, then I’d love to hear from you and learn more<br>about what you’re working on. Drop me a line at<br>hello@zakariabeji.com. <br><br>The more details about your project you include in your message,<br> the faster I willget back to you. You’ll hear back from me within<br>2–4 business days.
  
- ⤷ Whatever challenge your organization might face,<br>
+Whatever challenge your organization might face,<br>
 you don’t have to solve it alone. Let’s talk about<br>
-the app that can’t wait and **get started**.<br>ツ
+the app that can’t wait and **get started**.
  
 </details>
 
