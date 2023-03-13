@@ -8,7 +8,7 @@
 A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> French **Versatile Builder** and **Software Developer**, Mostly Frontend with a **DevOps** mindset.
 
 ⤷ **React** since 2020. **User-centered** and very attracted by<br>Creative UI, **UX**, and Product Design.
-Trained as an architect,<br>I used to draw the city. Now, I build<br>your place in the cloud!<br>
+Trained as an **_Architect_**,<br>I used to draw the city. Now, I build<br>your place in the cloud!<br>
 ☁
 
 
