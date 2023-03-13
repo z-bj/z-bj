@@ -70,7 +70,7 @@ If you’re still with me, then I’d love to hear from you and learn more<br>ab
  
 Whatever challenge your organization might face,<br>
 you don’t have to solve it alone. Let’s talk about<br>
-the app that can’t wait and **get started**.
+the app that can’t wait<br>and **get started**.
  
 </details>
 
