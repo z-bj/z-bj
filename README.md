@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/z-bj/z-bj/blob/master/Font-end_ops_developer_optimized.gif" width="980" height="auto">
+<img src="https://github.com/z-bj/z-bj/blob/master/Font-end_ops_developer_optimized.gif" width="1010" height="auto">
 
 # ＄Whoami
 
@@ -32,7 +32,9 @@ Trained as an **_Architect_**,<br>I used to draw the city. Now, I build<br>your 
 <summary><h1>🃏<h1/></summary>
  
  
- ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
+<!--  ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif) -->
+<img src="https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif" width="1010" height="auto">
+ 
  ㅤ
  
  ### But, am I the right partner for you?
