@@ -1,5 +1,9 @@
-![banner](https://github.com/z-bj/z-bj/blob/master/Font-end_ops_developer_optimized.gif)
+<!-- ![banner](https://github.com/z-bj/z-bj/blob/master/Font-end_ops_developer_optimized.gif) -->
 
+
+
+
+<img src="https://github.com/z-bj/z-bj/blob/master/Font-end_ops_developer_optimized.gif" width="980" height="auto">
 
 # ＄Whoami
 
