@@ -27,7 +27,6 @@ Trained as an **_Architect_**,<br>I used to draw the city. Now, I build<br>your 
 <details>
 <summary><h1>🃏<h1/></summary>
  
- # You know,
  
  ![banner](https://github.com/z-bj/z-bj/blob/master/our_offices_are_clother.gif)
  ㅤ
