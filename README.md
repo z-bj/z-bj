@@ -1,19 +1,28 @@
-<!-- ![banner](https://github.com/z-bj/z-bj/blob/master/Font-end_ops_developer_optimized.gif) -->
-
-
-
-
 <img src="https://github.com/z-bj/z-bj/blob/master/Font-end_ops_developer_optimized.gif" width="1010" height="auto">
 
 # ＄Whoami
 
 ### In a nut*shell*<br>
 
-A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> French **Versatile Builder** and **Software Developer**, Mostly Frontend with a **DevOps** mindset.
+A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> French Versatile Builder and **Software Developer**,
+<br>mostly **Frontend** with a **DevOps** mindset.
+
+My passion is to create **emotional experiences** at
+<br>the intersection of art, design, and digital.
+
+I love staying up-to-date with the latest technologies
+<br>and continuously expanding my skillset. 
 
 ⤷ **React** since 2020. **User-centered** and very attracted by<br>Creative UI, **UX**, and Product Design.
 Trained as an **_Architect_**,<br>I used to draw the city. Now, I build<br>your place in the cloud!<br>
 ☁
+
+#### I write articles and here’s some of my past work: ✍
+ 
+- [Combining Design Thinking, Lean Startup, and Agile for Project Success](https://dev.to/z_bj/combining-design-thinking-lean-startup-and-agile-for-project-success-4a2g)
+- [Design vs Engineering: Making the Right Choices for Your Project](https://dev.to/z_bj/design-vs-engineering-making-the-right-choices-for-your-project-55dj)
+- [How to "Google-it" like a Senior Software Engineer](https://dev.to/z_bj/how-to-google-it-like-a-senior-software-engineer-1fhj)
+
 
 
 ### Skills
