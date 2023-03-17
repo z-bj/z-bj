@@ -10,9 +10,6 @@ A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> 
 My passion is to create **emotional experiences** at
 <br>the intersection of art, design, and digital.
 
-I love staying up-to-date with the latest technologies
-<br>and continuously expanding my skillset. 
-
 ⤷ **React** since 2020. **User-centered** and very attracted by<br>Creative UI, **UX**, and Product Design.
 Trained as an **_Architect_**,<br>I used to draw the city. Now, I build<br>your place in the cloud!<br>
 ☁
