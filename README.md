@@ -14,12 +14,11 @@ My passion is to create **emotional experiences** at
 Trained as an **_Architect_**,<br>I used to draw the city. Now, I build<br>your place in the cloud!<br>
 ☁
 
-#### After learning on the Internet what could be more normal<br>than to share in turn? ✍
+#### After learning on the Internet what could be more normal than to share in turn? ✍
 
 - [How to "Google-it" like a Senior Software Engineer](https://dev.to/z_bj/how-to-google-it-like-a-senior-software-engineer-1fhj) 
-- [Combining Design Thinking, Lean Startup, and Agile for Project Success](https://dev.to/z_bj/combining-design-thinking-lean-startup-and-agile-for-project-success-4a2g)
 - [Design vs Engineering: Making the Right Choices for Your Project](https://dev.to/z_bj/design-vs-engineering-making-the-right-choices-for-your-project-55dj)
-
+- [Combining Design Thinking, Lean Startup, and Agile for Project Success](https://dev.to/z_bj/combining-design-thinking-lean-startup-and-agile-for-project-success-4a2g)
 
 ### Skills
 
