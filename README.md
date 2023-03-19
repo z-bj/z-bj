@@ -4,14 +4,12 @@
 
 ### In a nut*shell*<br>
 
-A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> French Versatile Builder and **Software Developer**,
-<br>mostly **Frontend** with a **DevOps** mindset.
+A <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> French Versatile Builder and **Software Developer**, mostly **Frontend** with a **DevOps** mindset.
 
-My passion is to create **emotional experiences** at
-<br>the intersection of art, design, and digital.
+My passion is to create **emotional experiences** at the intersection of art, design, and digital.
 
-⤷ **React** since 2020. **User-centered** and very attracted by<br>Creative UI, **UX**, and Product Design.
-Trained as an **_Architect_**,<br>I used to draw the city. Now, I build<br>your place in the cloud!<br>
+⤷ **React** since 2020. **User-centered** and very attracted by Creative UI, **UX**, and Product Design.
+Trained as an **_Architect_**, I used to draw the city. Now, I build your place in the cloud!
 ☁
 
 ### Articles: ✍
