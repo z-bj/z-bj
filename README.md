@@ -30,7 +30,7 @@ After learning on the Web, what could be more normal than to share in turn?
 
 
 
-### Hiring Remotely?
+# Hiring Remotely?
 ### 𝙶𝚛𝚎𝚊𝚝 𝚗𝚎𝚠𝚜 𝚊𝚠𝚊𝚒𝚝𝚜 — 𝙵𝚕𝚒𝚙 𝚝𝚑𝚎 𝚌𝚊𝚛𝚍!
 <details>
 <summary><h1>🃏<h1/></summary>
