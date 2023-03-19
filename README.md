@@ -14,11 +14,12 @@ My passion is to create **emotional experiences** at
 Trained as an **_Architect_**,<br>I used to draw the city. Now, I build<br>your place in the cloud!<br>
 ☁
 
-#### After learning on the Web what could be more normal than to share in turn? ✍
+### Articles: ✍
+After learning on the Web, what could be more normal than to share in turn?
 
-- [How to "Google-it" like a Senior Software Engineer](https://dev.to/z_bj/how-to-google-it-like-a-senior-software-engineer-1fhj) 
-- [Design vs Engineering: Making the Right Choices for Your Project](https://dev.to/z_bj/design-vs-engineering-making-the-right-choices-for-your-project-55dj)
-- [Combining Design Thinking, Lean Startup, and Agile for Project Success](https://dev.to/z_bj/combining-design-thinking-lean-startup-and-agile-for-project-success-4a2g)
+- [**How to "Google-it" like a Senior Software Engineer**](https://dev.to/z_bj/how-to-google-it-like-a-senior-software-engineer-1fhj) 
+- [**Design vs Engineering: Making the Right Choices for Your Project**](https://dev.to/z_bj/design-vs-engineering-making-the-right-choices-for-your-project-55dj)
+- [**Combining Design Thinking, Lean Startup, and Agile for Project Success**](https://dev.to/z_bj/combining-design-thinking-lean-startup-and-agile-for-project-success-4a2g)
 
 ### Skills
 
@@ -30,8 +31,9 @@ Trained as an **_Architect_**,<br>I used to draw the city. Now, I build<br>your 
 |  <a aligh="left" href="https://www.linkedin.com/in/zakariabeji/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="25" /></a> | [![Dm me](https://github.com/z-bj/z-bj/blob/master/Dm_me.svg)](https://www.linkedin.com/in/zakariabeji/)| 
 
 
+
 ### Hiring Remotely?
-𝙶𝚛𝚎𝚊𝚝 𝚗𝚎𝚠𝚜 𝚊𝚠𝚊𝚒𝚝𝚜 — 𝙵𝚕𝚒𝚙 𝚝𝚑𝚎 𝚌𝚊𝚛𝚍!
+### 𝙶𝚛𝚎𝚊𝚝 𝚗𝚎𝚠𝚜 𝚊𝚠𝚊𝚒𝚝𝚜 — 𝙵𝚕𝚒𝚙 𝚝𝚑𝚎 𝚌𝚊𝚛𝚍!
 <details>
 <summary><h1>🃏<h1/></summary>
  
